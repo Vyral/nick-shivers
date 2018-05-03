@@ -17,6 +17,8 @@ youtube_code: VCnqrroTNkU
 
 {% include youtube.html %}
 
+With our program Sell a Home, Save a Child, we donate a share of our real estate commissions to a program for children in need.
+
 Let me tell you a quick story about an experience that changed my life forever—for the better.
 
 About 10 years ago, I was volunteering at a landfill in Managua, Venezuela to help the people who lived and worked there under destitute conditions. Some of these people were children. My own kids were young at the time, and I saw some things at that landfill that inspired me to help the kids who lived there.
