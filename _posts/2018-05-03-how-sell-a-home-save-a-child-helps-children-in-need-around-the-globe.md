@@ -1,9 +1,8 @@
 ---
 layout: post
 title: 'How Sell a Home, Save a Child Helps Children in Need Around the Globe'
-date:
+date: 2018-05-03 19:15:23
 tags:
-  - Announcements
 excerpt: 'Want to join the Sell a Home, Save a Child movement?'
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Nick+Shivers/%25231+Real+Estate+Team+in+the+Portland+Metro+%257C+SW+Washington-+Sell+a+Home%252C+Save+a+Child.mp4
