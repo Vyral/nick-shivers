@@ -17,7 +17,9 @@ youtube_code: VCnqrroTNkU
 
 {% include youtube.html %}
 
-With our program Sell a Home, Save a Child, we donate a share of our real estate commissions to a program for children in need.
+<center><em>With our program Sell a Home, Save a Child, we donate a share of our real estate commissions to a program for children in need.</em><center>
+
+<center>&nbsp;</center>
 
 Let me tell you a quick story about an experience that changed my life forever—for the better.
 
