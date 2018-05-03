@@ -26,11 +26,11 @@ About 10 years ago, I was volunteering at a landfill in Managua, Venezuela to he
 
 I got involved with an organization called Forward Edge International, but I realized there was something more I could do. I believe everyone wants to make a difference, but sometimes you just don’t know how. That’s when my good friend Eric Hatch and I started Sell a Home, Save a Child.
 
-What is Sell a Home, Save a Child? It’s is a movement. More specifically, its a collaboration of agents, title companies, mortgage representatives, builders, transaction coordinators, and other professionals in the real estate industry all around the country who want to make a difference in kids’ lives.
+What is Sell a Home, Save a Child? It’s a movement. More specifically, it's a collaboration of agents, title companies, mortgage representatives, builders, transaction coordinators, and other professionals in the real estate industry all around the country who want to make a difference in kids’ lives.
 
 {% include pullquote.html %}
 
-**For every home sold through this program, we donate 10% of our commission to Forward Edge International** to help transform the lives of children in Cuba, Haiti, Nicaragua, Kenya, Mexico, and the US. Our goal last year was to raise $1 million. We fell just short of that mark, but we still raised $900,000. That sum can make a big difference in a lot of kids’ live around the globe.
+**For every home sold through this program, we donate 10% of our commission to Forward Edge International** to help transform the lives of children in Cuba, Haiti, Nicaragua, Kenya, Mexico, and the US. Our goal last year was to raise $1 million. We fell just short of that mark, but we still raised $900,000. That sum can make a big difference in a lot of kids’ lives around the globe.
 
 How can you partner up with Sell a Home, Save a Child? **If you have a home you need to sell or you know someone who does, give us a call.** For the first home we sell each month, we donate 100% of our commission to Forward Edge International instead of just 10%. Some lucky seller out there will not only get top dollar for their home, but they’ll donate to a good cause at no cost to them whatsoever.
 
