@@ -21,6 +21,10 @@ youtube_code: dKn92zAagFQ
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Looking at different options for lenders for your home loan? Consider a local lender.</em></p>
+
+<center>&nbsp;</center>
+
 We are in a hot selling season. So, with multiple offers, **how do you stand out?**<br>&nbsp;<br>Today we are going to talk about why a local lender helps you stand out in a competitive, multiple offer situation.<br>&nbsp;<br>For our properties, I want to see someone who has more than just a pre-approval. I want a lender that can reach out to me and say, “this is why you want to go with them.”<br>&nbsp;<br>I want this for two reasons:<br>&nbsp;<br>**1. If they close deals, I might know them.**<br>&nbsp;<br>**2. I'm talking to them.** Even in a text and email world, you want to be able to have at least a conversation. If you can't have a conversation, make sure that lender is sending out a video text.
 
 {% include pullquote.html %}
