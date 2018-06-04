@@ -21,7 +21,7 @@ youtube_code: dKn92zAagFQ
 
 {% include youtube.html %}
 
-<div style="text-align: center;"><em>Looking at different options for lenders for your home loan? Consider a local lender.</em></div>
+<p style="text-align: center;"><em>Looking at different options for lenders for your home loan? Consider a local lender.</em></p>
 
 <center>&nbsp;</center>
 
