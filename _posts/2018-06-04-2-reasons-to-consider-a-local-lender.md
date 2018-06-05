@@ -21,7 +21,7 @@ youtube_code: dKn92zAagFQ
 
 {% include youtube.html %}
 
-*Are you searching for the right lending professional to help you secure a home loan? Consider a local lender.*
+<p style="text-align: center;"><em>Are you searching for the right lending professional to help you secure a home loan? Consider a local lender.</em></p>
 
 <center>&nbsp;</center>
 
