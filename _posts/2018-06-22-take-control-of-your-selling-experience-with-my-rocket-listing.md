@@ -19,7 +19,9 @@ youtube_code: II7UOEb87BQ
 
 {% include youtube.html %}
 
-Have you heard of My Rocket Listing? Today I’d like to explain this great program my team offers and what it can do for you.
+<p style="text-align: center;"><em>Have you heard of My Rocket Listing? Today I’d like to explain this great program my team offers and what it can do for you.</em></p>
+
+<center>&nbsp;</center>
 
 My team and I have sold thousands of homes, and we realize that even in a hot real estate market, some people out there still have the desire to sell without all the hassle of a traditional listing.
 
