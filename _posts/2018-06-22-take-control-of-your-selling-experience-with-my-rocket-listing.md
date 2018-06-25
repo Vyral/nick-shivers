@@ -9,7 +9,7 @@ excerpt: >-
   program my team offers and what it can do for you.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Nick+Shivers/2018/%25231+Real+Estate+Team+in+the+Portland+Metro+%257C+SW+Washington-+my+rocket+listing.mp4
-pullquote:
+pullquote: 'The My Rocket Listing program is as easy as "three, two, one, sold."'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
