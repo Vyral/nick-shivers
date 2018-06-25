@@ -29,11 +29,11 @@ Showings, repairs, negotiations, and uncertainty about closing are all aspects o
 
 Let me explain how this countdown to success looks like for sellers who use this program. Here are each of the steps:
 
-**1. Contact us.**
+**3. Contact us.**
 
 **2. We’ll run our algorithm and have an on-site evaluation.**
 
-**3. Within 24 hours, we’ll get an offer for your home and give you a comparative market analysis showing what you could earn in a traditional market setting.**
+**1. Within 24 hours, we’ll get an offer for your home and give you a comparative market analysis showing what you could earn in a traditional market setting.**
 
 {% include pullquote.html %}
 
