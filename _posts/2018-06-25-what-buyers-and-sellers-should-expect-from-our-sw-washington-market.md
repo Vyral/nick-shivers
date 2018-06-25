@@ -27,13 +27,13 @@ youtube_code: WL8OQNPeP60
 
 How has our Southwest Washington market fared so far this year? Let’s take a look at the last few months.
 
-In April, closed sales rose 11% &nbsp;in Portland and 12% in Southwest Washington as a whole. And in May, Portland saw a 8% drop in closed sales and Southwest Washington overall saw a dip of 7%.&nbsp;
+In April, closed sales rose 11% &nbsp;in Portland and 12% in Southwest Washington as a whole. And in May, Portland saw an 8% drop in closed sales and Southwest Washington overall saw a dip of 7%.&nbsp;
 
 But what about June? Well, much like we saw last month, **June has seen closed sales drop 9% in Portland and 3% across Southwest Washington in general.**
 
 What do these figures tell us about our market?&nbsp;
 
-One major thing we can take away from these trends is that there’s a sense of apathy among buyers in our market lately. First-time buyers are struggling to secure a home, as listings in lower price points often seen six, seven, eight, or nine or more offers. Even so, buyer traffic hasn’t been as hot as it should be at this time of year.&nbsp;
+One major thing we can take away from these trends is that there’s a sense of apathy among buyers in our market lately. First-time buyers are struggling to secure a home, as listings in lower price points often see six or more offers. Even so, buyer traffic hasn’t been as hot as it should be at this time of year.&nbsp;
 
 {% include pullquote.html %}
 
