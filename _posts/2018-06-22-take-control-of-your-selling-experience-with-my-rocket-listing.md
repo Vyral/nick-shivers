@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Take Control of Your Selling Experience With My Rocket Listing
-date: 2018-06-22 15:43:22
+date: 2018-06-22 15:43:00
 tags:
   - Home Seller Tips
 excerpt: >-
@@ -9,7 +9,7 @@ excerpt: >-
   program my team offers and what it can do for you.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Nick+Shivers/2018/%25231+Real+Estate+Team+in+the+Portland+Metro+%257C+SW+Washington-+my+rocket+listing.mp4
-pullquote: 'The My Rocket Listing program is as easy as “three, two, one, sold."'
+pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -19,7 +19,7 @@ youtube_code: II7UOEb87BQ
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Have you heard of My Rocket Listing? Today I’d like to explain this great program my team offers and what it can do for you.</em></p>
+*Have you heard of My Rocket Listing? Today I’d like to explain this great program my team offers and what it can do for you.*
 
 <center>&nbsp;</center>
 
@@ -37,10 +37,10 @@ Let me explain how this countdown to success looks like for sellers who use this
 
 {% include pullquote.html %}
 
-With My Rocket Listing, you pick the closing and control the process. About 70% of consumers want a maximum-price offer for their home. But the remaining 30% are more interested in receiving a fair offer with maximum convenience, which is exactly what our program provides.&nbsp;
+With My Rocket Listing, you pick the closing and control the process. About 70% of consumers want a maximum-price offer for their home. But the remaining 30% are more interested in receiving a fair offer with maximum convenience, which is exactly what our program provides. 
 
 Take one of our past clients, Larry, for example. Larry was moving to Florida and came to us to pursue our My Rocket Listing program. He told me that he just wanted to get the selling process over and done with so he could move on to his next home. The My Rocket Listing offer was perfect for Larry.
 
-So whether you’re interested in the My Rocket Listing program or would rather have a traditional listing experience, **my team and I can guarantee transparency and great results when you work with us.**&nbsp;
+So whether you’re interested in the My Rocket Listing program or would rather have a traditional listing experience, **my team and I can guarantee transparency and great results when you work with us.** 
 
 If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
