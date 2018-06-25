@@ -21,7 +21,9 @@ youtube_code: WL8OQNPeP60
 
 {% include youtube.html %}
 
-What’s been going on in our Southwest Washington market lately? Today let’s review how the past few months have fared.
+<p style="text-align: center;"><em>What’s been going on in our Southwest Washington market lately? Today let’s review how the past few months have fared.</em></p>
+
+<center>&nbsp;</center>
 
 How has our Southwest Washington market fared so far this year? Let’s take a look at the last few months.
 
