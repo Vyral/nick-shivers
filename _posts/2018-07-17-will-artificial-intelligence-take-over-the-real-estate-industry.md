@@ -19,7 +19,7 @@ youtube_code: gjI778Jwmjg
 
 {% include youtube.html %}
 
-Today I want to talk about using artificial intelligence (AI) to sell your home.
+<p style="text-align: center;"><em>Today I want to talk about using artificial intelligence (AI) to sell your home.</em></p>
 
 I have three topics for you today: robots, artificial intelligence (AI), and Zillow.
 
