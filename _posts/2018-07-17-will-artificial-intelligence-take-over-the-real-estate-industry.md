@@ -35,7 +35,7 @@ There’s a home at 331 SE 7th Way in Camby, meanwhile, that was a Rocket Listin
 
 {% include pullquote.html %}
 
-Why is that? **It is difficult to get AI to understand market demand.** While they can look at past sales, they cannot know today what the demand is. They do not know about a home’s specific, detailed location.
+Why is that? **It is difficult to get AI to understand market demand.** While it can look at past sales, it cannot know today what the market demand is and it doesn't know about a home’s specific, detailed location.
 
 The property on Knight Street backs up to a freeway with a huge wall, and that’s going to affect its value. AI will never factor that into the details. Having bad neighbors will affect a home’s value as well. Finally, perception will affect the value. What is the overall perception in the real estate market?
 
