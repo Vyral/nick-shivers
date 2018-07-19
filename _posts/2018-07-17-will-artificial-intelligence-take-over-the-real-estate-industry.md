@@ -8,13 +8,13 @@ excerpt: >-
   Today I want to talk about using artificial intelligence (AI) to sell your
   home.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Nick+Shivers/2018/%25231+Real+Estate+Team+in+the+Portland+Metro+%257C+SW+Washington-+Robots%252C+AI%252C+and+Zillow.mp4
+  https://s3.amazonaws.com/vyralmarketing/Nick+Shivers/2018/%25231+Real+Estate+Team+in+the+Portland+Metro+%257C+SW+Washington-+robots.mp4
 pullquote: 'AI is a great technology and, as an agent, I think that I would use it.'
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: gjI778Jwmjg
+youtube_code: MvVfXJu42vk
 ---
 
 {% include youtube.html %}
