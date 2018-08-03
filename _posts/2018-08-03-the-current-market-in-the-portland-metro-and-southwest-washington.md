@@ -21,7 +21,7 @@ youtube_code: elYp7-4DNbc
 
 {% include youtube.html %}
 
-A shift in the wind of the market has happened and today I am going to explain what it means for you.
+<p style="text-align: cemter;"><em>A shift in the wind of the market has happened and today I am going to explain what it means for you.</em></p>
 
 The Current Market in the Portland Metro and Southwest Washington<br>You Current Portland and SW Washington Market
 
