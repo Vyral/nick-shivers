@@ -23,8 +23,6 @@ youtube_code: elYp7-4DNbc
 
 <p style="text-align: cemter;"><em>A shift in the wind of the market has happened and today I am going to explain what it means for you.</em></p>
 
-The Current Market in the Portland Metro and Southwest Washington<br>You Current Portland and SW Washington Market
-
 It’s time once again for The Shiver's Report, where I talk about the real estate market in the Portland Metro and Southwest Washington.
 
 So, what is going on? **I believe that there truly has been a shift in the wind.** In fact, we are going on four and a half months with fewer sales and more inventory. The reality, though, is that this is probably a good thing. This is because, as buyers already know, it has been a tough market.
