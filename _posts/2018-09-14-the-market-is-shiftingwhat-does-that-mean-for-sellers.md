@@ -21,7 +21,7 @@ youtube_code: xJpS3SThIIM
 
 {% include youtube.html %}
 
-What do sellers need to know in a shifting real estate market? Today I’ll discuss four key points sellers should think about.
+<p style="text-align: center;"><em>What do sellers need to know in a shifting real estate market? Today I’ll discuss four key points sellers should think about.</em></p>
 
 What even is a shifting real estate market? It doesn’t mean that the market is going crazy, like it did in 2010; it could mean several different things. For this discussion, I’ll be referencing the market specifically in Portland and Southwest Washington.
 
