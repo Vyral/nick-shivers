@@ -23,7 +23,7 @@ youtube_code: YxqpXhOMBOU
 
 <p style="text-align: center;"><em>What do sellers need to know in a shifting real estate market? Today I’ll discuss four key points sellers should think about.</em></p>
 
-What even is a shifting real estate market? It doesn’t mean that the market is going crazy, like it did in 2010; it could mean several different things. For this discussion, I’ll be referencing the market specifically in Portland and Southwest Washington.
+What even is a shifting real estate market? It doesn’t mean that the market is going crazy like it did in 2010; it could mean several different things. For this discussion, I’ll be referencing the market specifically in Portland and Southwest Washington.
 
 In the Portland metro, the shifting market means this: **Year over year, there have been 65% more price drops for the period of this last month.** There are properties that are worth less money now than they were in, say, May.&nbsp;
 
