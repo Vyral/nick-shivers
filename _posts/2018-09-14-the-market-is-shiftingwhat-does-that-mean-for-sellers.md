@@ -8,7 +8,7 @@ excerpt: >-
   What do sellers need to know in a shifting real estate market? Today I’ll
   discuss four key points sellers should think about.
 enclosure: >-
-  https://s3.amazonaws.com/vyralmarketing/Nick+Shivers/2018/%25231+Real+Estate+Team+in+the+Portland+Metro+%257C+SW+Washington-+What+you+need+to+know+in+our+market+shift.mp4
+  https://s3.amazonaws.com/vyralmarketing/Nick+Shivers/2018/%25231+Real+Estate+Team+in+the+Portland+Metro+%257C+SW+Washington+sellers+shifting+market.mp4
 pullquote: >-
   If you overprice your home in a shifting market that has either plateaued or
   is going down, then you could get yourself in trouble and lose value.
@@ -16,7 +16,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: xJpS3SThIIM
+youtube_code: YxqpXhOMBOU
 ---
 
 {% include youtube.html %}
