@@ -41,6 +41,6 @@ Even still, our overall market is healthy. Here are some key points for sellers 
 
 **4. When listing your home, don’t overprice it.** If you overprice your home in a shifting market that has either plateaued or is going down, then you could get yourself in trouble and lose value.&nbsp;
 
-However, **remember that real estate is micro-local**: There are some neighborhoods in the Portland area that still don’t have homes on the market, specifically in the luxury price points. If &nbsp;we had to make a forecast for the fourth quarter, **I’d say to expect to see this trend continuing, especially with the seasonal downturn.**
+However, **remember that real estate is micro-local**: There are some neighborhoods in the Portland area that still don’t have homes on the market. If &nbsp;we had to make a forecast for the fourth quarter, **I’d say to expect to see this trend continuing, especially with the seasonal downturn.**
 
 If you’re planning on selling your home, be sure to follow these tips. If you have any questions in the meantime, please feel free to reach out to me.
