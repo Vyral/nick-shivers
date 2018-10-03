@@ -21,7 +21,7 @@ youtube_code: 5luRYggYOog
 
 {% include youtube.html %}
 
-*Our Portland market is shifting, so as a buyer, you need great intel and you need to look at all the comparable homes sold yourself.*
+<p style="text-align: center;"><em>Our Portland market is shifting, so as a buyer, you need great intel and you need to look at all the comparable homes sold yourself.</em></p>
 
 Our market is shifting here in Portland, and there are two keys to finding the right home if you’re a buyer.   
 
