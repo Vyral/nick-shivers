@@ -4,9 +4,14 @@ title: 2 Keys for Buyers to Take Advantage of Our Shifting Market
 date:
 tags:
   - Home Buyer Tips
-excerpt:
-enclosure:
-pullquote:
+excerpt: >-
+  Our Portland market is shifting, so as a buyer, you need great intel and you
+  need to look at all the comparable homes sold yourself.
+enclosure: >-
+  https://s3.amazonaws.com/vyralmarketing/Nick+Shivers/2018/%25231+Real+Estate+Team+in+the+Portland+Metro+%257C+SW+Washington+2+Keys+for+Buyers+in+Our+Shifting+Market.mp4
+pullquote: >-
+  If you’ve had a tough time finding the right house, the fourth quarter will be
+  a great time to get in the game.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
