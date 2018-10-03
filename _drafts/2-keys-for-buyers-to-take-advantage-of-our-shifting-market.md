@@ -21,6 +21,8 @@ youtube_code: 5luRYggYOog
 
 {% include youtube.html %}
 
+<p style="text-align: center;"><em>Our Portland market is shifting, so as a buyer, you need great intel and you need to look at all the comparable homes sold yourself.</em></p>
+
 Our market is shifting here in Portland, and there are two keys to finding the right home if you’re a buyer.   
 
 First, when I say a “shifting market,” I mean we’re shifting into a neutral-to-slightly-depreciating market. As we know, real estate is micro-local, and certain areas are still in a strong seller’s market. Overall though, the Portland market is shifting. We’re seeing more price reductions and homes spending more days on the market. Specifically, we’ve seen a 63% increase in price reductions year over year.
