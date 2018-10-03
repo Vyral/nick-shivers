@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2 Keys for Buyers to Take Advantage of Our Shifting Market
-date:
+date: 2018-10-03 19:00:49
 tags:
   - Home Buyer Tips
 excerpt: >-
@@ -21,7 +21,7 @@ youtube_code: 5luRYggYOog
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>Our Portland market is shifting, so as a buyer, you need great intel and you need to look at all the comparable homes sold yourself.</em></p>
+*Our Portland market is shifting, so as a buyer, you need great intel and you need to look at all the comparable homes sold yourself.*
 
 Our market is shifting here in Portland, and there are two keys to finding the right home if you’re a buyer.   
 
