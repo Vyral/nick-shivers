@@ -19,7 +19,7 @@ youtube_code: 9saiZA6OnO0
 
 {% include youtube.html %}
 
-During the fourth quarter, our super-hot seller’s market will transition into more of a neutral market. However, our market is still in great shape overall.
+<p style="text-align: center;"><em>During the fourth quarter, our super-hot seller’s market will transition into more of a neutral market. However, our market is still in great shape overall.</em></p>
 
 What can you expect from our Portland Metro/Southwest Washington market during the fourth quarter? **There are several trends you’ll want to watch out for.**
 
