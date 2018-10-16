@@ -9,7 +9,7 @@ excerpt: >-
   more of a neutral market. However, our market is still in great shape overall.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Nick+Shivers/2018/%25231+Real+Estate+Team+in+the+Portland+Metro+%257C+SW+Washington+market+update.mp4
-pullquote: There will be fewer homes sales compared to the fourth quarter of 2017.
+pullquote: There will be fewer home sales compared to the fourth quarter of 2017.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -33,7 +33,7 @@ Next, price appreciation will slow down. However, since real estate is micro-loc
 
 You should also expect the Federal Reserve to raise interest rates. They’re scheduled to meet two more times this year, so you can bet that they’ll raise rates so they can then take them back down and spur growth.&nbsp;
 
-Lastly, there will be fewer homes sales compared to the fourth quarter of 2017.
+Lastly, there will be fewer home sales compared to the fourth quarter of 2017.
 
 Overall, **you’ll see our super-hot seller’s market shift into more of a neutral market.** In some areas, we might even see a buyer’s market emerge. The good news is, our market is still great and our economy is still growing.&nbsp;
 
