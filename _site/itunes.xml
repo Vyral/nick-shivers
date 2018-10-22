@@ -2,14 +2,14 @@
 <rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
   <channel>
     <title>Serving People, Saving Kids by Selling Real Estate Video Blog with Nick Shivers</title>
-    <link>localhost:4000</link>
-    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="localhost:4000"/>
+    <link>portlandrealestatejournal.com</link>
+    <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="portlandrealestatejournal.com"/>
     <description>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Nick Shivers Team - your professional Portland Metro & Southwest Washington Real Estate Agents.</description>
     <language>en</language>
     <managingEditor>Nick Shivers</managingEditor>
-    <lastBuildDate>2018-10-19 11:24:24 -0500</lastBuildDate>
+    <lastBuildDate>2018-10-22 10:09:13 -0500</lastBuildDate>
     <media:copyright>Nick Shivers</media:copyright>
-    <media:thumbnail url="localhost:4000/img/podcast.jpg"/>
+    <media:thumbnail url="portlandrealestatejournal.com/img/podcast.jpg"/>
     <media:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Portland Metro & Southwest Washington, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</media:keywords>
     <media:category scheme="http://www.itunes.com/dtds/podcast-1.0.dtd">Education</media:category>
     <itunes:owner>
@@ -18,7 +18,7 @@
     </itunes:owner>
     <itunes:author>Nick Shivers</itunes:author>
     <itunes:explicit>no</itunes:explicit>
-    <itunes:image href="localhost:4000/img/podcast.jpg"/>
+    <itunes:image href="portlandrealestatejournal.com/img/podcast.jpg"/>
     <itunes:keywords>Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in Portland Metro & Southwest Washington, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer</itunes:keywords>
     <itunes:subtitle>Learn all the tips, tricks and more for buyers and sellers in the Portland Metro & Southwest Washington Area Real Estate Market</itunes:subtitle>
     <itunes:summary>If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from The Nick Shivers Team - your professional Portland Metro & Southwest Washington Real Estate Agents.</itunes:summary>
@@ -26,7 +26,7 @@
     
       <item>
         <title>Trends You Should Expect to See During the 4th Quarter</title>
-        <link>localhost:4000/trends-you-should-expect-to-see-during-the-4th-quarter.html</link>
+        <link>portlandrealestatejournal.com/trends-you-should-expect-to-see-during-the-4th-quarter.html</link>
         
           <category>Market Update</category>
         
@@ -56,7 +56,7 @@ Overall, you’ll see our super-hot seller’s market shift into more of a neutr
 As always, if you have any other questions about our market or you’re thinking of buying or selling a home soon, don’t hesitate to reach out to me. I’d be happy to help you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nick+Shivers/2018/%25231+Real+Estate+Team+in+the+Portland+Metro+%257C+SW+Washington+market+update.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="portlandrealestatejournal.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Nick+Shivers/2018/%25231+Real+Estate+Team+in+the+Portland+Metro+%257C+SW+Washington+market+update.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>During the fourth quarter, our super-hot seller’s market will transition into more of a neutral market. However, our market is still in great shape overall.</itunes:subtitle>
@@ -67,7 +67,7 @@ As always, if you have any other questions about our market or you’re thinking
       
       <item>
         <title>2 Keys for Buyers to Take Advantage of Our Shifting Market</title>
-        <link>localhost:4000/2-keys-for-buyers-to-take-advantage-of-our-shifting-market.html</link>
+        <link>portlandrealestatejournal.com/2-keys-for-buyers-to-take-advantage-of-our-shifting-market.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -93,7 +93,7 @@ There are a lot of great opportunities for buyers out there right now. There’s
 If you have any other questions about our market or you’re thinking of selling a home soon, don’t hesitate to reach out to me. I’d be glad to help you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nick+Shivers/2018/%25231+Real+Estate+Team+in+the+Portland+Metro+%257C+SW+Washington+2+Keys+for+Buyers+in+Our+Shifting+Market.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="portlandrealestatejournal.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Nick+Shivers/2018/%25231+Real+Estate+Team+in+the+Portland+Metro+%257C+SW+Washington+2+Keys+for+Buyers+in+Our+Shifting+Market.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Our Portland market is shifting, so as a buyer, you need great intel and you need to look at all the comparable homes sold yourself.</itunes:subtitle>
@@ -104,7 +104,7 @@ If you have any other questions about our market or you’re thinking of selling
       
       <item>
         <title>The Market Is Shifting—What Does That Mean For Sellers?</title>
-        <link>localhost:4000/the-market-is-shiftingwhat-does-that-mean-for-sellers.html</link>
+        <link>portlandrealestatejournal.com/the-market-is-shiftingwhat-does-that-mean-for-sellers.html</link>
         
           <category>Home Seller Tips</category>
         
@@ -138,7 +138,7 @@ However, remember that real estate is micro-local: There are some neighborhoods 
 If you’re planning on selling your home, be sure to follow these tips. If you have any questions in the meantime, please feel free to reach out to me.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nick+Shivers/2018/%25231+Real+Estate+Team+in+the+Portland+Metro+%257C+SW+Washington+sellers+shifting+market.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="portlandrealestatejournal.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Nick+Shivers/2018/%25231+Real+Estate+Team+in+the+Portland+Metro+%257C+SW+Washington+sellers+shifting+market.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>What do sellers need to know in a shifting real estate market? Today I’ll discuss four key points sellers should think about.</itunes:subtitle>
@@ -149,7 +149,7 @@ If you’re planning on selling your home, be sure to follow these tips. If you 
       
       <item>
         <title>The Current Market in the Portland Metro and Southwest Washington</title>
-        <link>localhost:4000/the-current-market-in-the-portland-metro-and-southwest-washington.html</link>
+        <link>portlandrealestatejournal.com/the-current-market-in-the-portland-metro-and-southwest-washington.html</link>
         
           <category>Market Update</category>
         
@@ -181,7 +181,7 @@ Buyers, meanwhile, are starting to get more opportunities and more homes to choo
 If you have any questions about our market or are interested in buying or selling, please feel free to reach out to me. I would love to speak with you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nick+Shivers/2018/%25231+Real+Estate+Team+in+the+Portland+Metro+%257C+SW+Washington-+Market+Update.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="portlandrealestatejournal.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Nick+Shivers/2018/%25231+Real+Estate+Team+in+the+Portland+Metro+%257C+SW+Washington-+Market+Update.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>A shift in the wind of the market has happened and today I am going to explain what it means for you.</itunes:subtitle>
@@ -192,7 +192,7 @@ If you have any questions about our market or are interested in buying or sellin
       
       <item>
         <title>Will Artificial Intelligence Take Over the Real Estate Industry?</title>
-        <link>localhost:4000/will-artificial-intelligence-take-over-the-real-estate-industry.html</link>
+        <link>portlandrealestatejournal.com/will-artificial-intelligence-take-over-the-real-estate-industry.html</link>
         
           <category>Real Estate</category>
         
@@ -226,7 +226,7 @@ In conclusion, while I do think that Zillow using AI is making it easier for con
 If you have any additional questions or are interested in buying or selling, feel free to reach out to me. I look forward to helping you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nick+Shivers/2018/%25231+Real+Estate+Team+in+the+Portland+Metro+%257C+SW+Washington-+robots.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="portlandrealestatejournal.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Nick+Shivers/2018/%25231+Real+Estate+Team+in+the+Portland+Metro+%257C+SW+Washington-+robots.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Today I want to talk about using artificial intelligence (AI) to sell your home.</itunes:subtitle>
@@ -237,7 +237,7 @@ If you have any additional questions or are interested in buying or selling, fee
       
       <item>
         <title>What Buyers and Sellers Should Expect From Our SW Washington Market</title>
-        <link>localhost:4000/what-buyers-and-sellers-should-expect-from-our-sw-washington-market.html</link>
+        <link>portlandrealestatejournal.com/what-buyers-and-sellers-should-expect-from-our-sw-washington-market.html</link>
         
           <category>Market Update</category>
         
@@ -267,7 +267,7 @@ So my hope for the months to come is that we start seeing more listings come ont
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nick+Shivers/2018/%25231+Real+Estate+Team+in+the+Portland+Metro+%257C+SW+Washington-+market+update.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="portlandrealestatejournal.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Nick+Shivers/2018/%25231+Real+Estate+Team+in+the+Portland+Metro+%257C+SW+Washington-+market+update.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>What’s been going on in our Southwest Washington market lately? Today let’s review how the past few months have fared.</itunes:subtitle>
@@ -278,7 +278,7 @@ If you have any other questions or would like more information, feel free to giv
       
       <item>
         <title>Take Control of Your Selling Experience With My Rocket Listing</title>
-        <link>localhost:4000/take-control-of-your-selling-experience-with-my-rocket-listing.html</link>
+        <link>portlandrealestatejournal.com/take-control-of-your-selling-experience-with-my-rocket-listing.html</link>
         
           <category>Home Seller Tips</category>
         
@@ -314,7 +314,7 @@ So whether you’re interested in the My Rocket Listing program or would rather 
 If you have any other questions or would like more information, feel free to give us a call or send us an email. We look forward to hearing from you soon.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nick+Shivers/2018/%25231+Real+Estate+Team+in+the+Portland+Metro+%257C+SW+Washington-+my+rocket+listing.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="portlandrealestatejournal.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Nick+Shivers/2018/%25231+Real+Estate+Team+in+the+Portland+Metro+%257C+SW+Washington-+my+rocket+listing.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Have you heard of My Rocket Listing? Today I’d like to explain this great program my team offers and what it can do for you.</itunes:subtitle>
@@ -325,7 +325,7 @@ If you have any other questions or would like more information, feel free to giv
       
       <item>
         <title>2 Reasons to Consider a Local Lender</title>
-        <link>localhost:4000/2-reasons-to-consider-a-local-lender.html</link>
+        <link>portlandrealestatejournal.com/2-reasons-to-consider-a-local-lender.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -345,7 +345,7 @@ We are in a hot seller’s season right now, which means competition among buyer
 You, as the consumer, may be thinking you are going to go to Quicken Loans and save a quarter of a percent. Well, the fact is that after everything is done, it’s about the same. Also, I guarantee any top listing agent is going to look at Quicken Loans a little bit differently than someone who we know gets deals done. In this market, if you want to win in a multiple offer situation, you need a lender that is proactive in the market, well-known, and willing to reach out on your behalf. If you have any further questions about why you should consider a local lender when purchasing your new home, please don’t hesitate to ask. I look forward to speaking with you soon
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nick+Shivers/2018/%25231+Real+Estate+Team+in+the+Portland+Metro+%257C+SW+Washington-+How+Do+You+Stand+Out%253F.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="portlandrealestatejournal.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Nick+Shivers/2018/%25231+Real+Estate+Team+in+the+Portland+Metro+%257C+SW+Washington-+How+Do+You+Stand+Out%253F.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Looking at different options for lenders for your home loan? Consider a local lender.</itunes:subtitle>
@@ -356,7 +356,7 @@ You, as the consumer, may be thinking you are going to go to Quicken Loans and s
       
       <item>
         <title>How Sell a Home, Save a Child Helps Children in Need Around the Globe</title>
-        <link>localhost:4000/how-sell-a-home-save-a-child-helps-children-in-need-around-the-globe.html</link>
+        <link>portlandrealestatejournal.com/how-sell-a-home-save-a-child-helps-children-in-need-around-the-globe.html</link>
         
         <author>Nick Shivers</author>
         <pubDate>2018-05-03 14:15:23 -0500</pubDate>
@@ -384,7 +384,7 @@ How can you partner up with Sell a Home, Save a Child? If you have a home you ne
 If you have any other questions about Sell a Home, Save a Child or you have any other real estate needs I can assist you with, don’t hesitate to reach out to me. I’d love to help you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nick+Shivers/%25231+Real+Estate+Team+in+the+Portland+Metro+%257C+SW+Washington-+Sell+a+Home%252C+Save+a+Child.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="portlandrealestatejournal.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Nick+Shivers/%25231+Real+Estate+Team+in+the+Portland+Metro+%257C+SW+Washington-+Sell+a+Home%252C+Save+a+Child.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Want to join the Sell a Home, Save a Child movement?</itunes:subtitle>
@@ -395,7 +395,7 @@ If you have any other questions about Sell a Home, Save a Child or you have any 
       
       <item>
         <title>Zillow and Wall Street Are Teaming Up</title>
-        <link>localhost:4000/zillow-and-wall-street-are-teaming-up.html</link>
+        <link>portlandrealestatejournal.com/zillow-and-wall-street-are-teaming-up.html</link>
         
           <category>Real Estate</category>
         
@@ -421,7 +421,7 @@ When Zillow comes out and gives you an offer on your home, but they are off by a
 If you have any questions for me about this topic or anything else related to real estate, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nick+Shivers/%231+Real+Estate+Team+in+the+Portland+Metro++SW+Washington++What+is+Zillow+up+to.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="portlandrealestatejournal.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Nick+Shivers/%231+Real+Estate+Team+in+the+Portland+Metro++SW+Washington++What+is+Zillow+up+to.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Zillow has officially entered the home buying and flipping industry. Here’s what to expect.</itunes:subtitle>
@@ -432,7 +432,7 @@ If you have any questions for me about this topic or anything else related to re
       
       <item>
         <title>Is Our Local Market Headed for a Crash?</title>
-        <link>localhost:4000/is-our-local-market-headed-for-a-crash.html</link>
+        <link>portlandrealestatejournal.com/is-our-local-market-headed-for-a-crash.html</link>
         
           <category>Market Update</category>
         
@@ -462,7 +462,7 @@ At the end of the day, don’t buy into the scare tactics coming from the TV or 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nick+Shivers/%231+Real+Estate+Team+in+the+Portland+Metro++SW+Washington+Worried+about+a+market+crash.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="portlandrealestatejournal.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Nick+Shivers/%231+Real+Estate+Team+in+the+Portland+Metro++SW+Washington+Worried+about+a+market+crash.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Lately, people have been asking me the same question every day: Is our market crumbling? Today, I want to bring you the truth about this common concern.</itunes:subtitle>
@@ -473,7 +473,7 @@ If you have any other questions or would like more information, feel free to giv
       
       <item>
         <title>When Is the Best Time to List Your Home in 2018?</title>
-        <link>localhost:4000/when-is-the-best-time-to-list-your-home-in-2018.html</link>
+        <link>portlandrealestatejournal.com/when-is-the-best-time-to-list-your-home-in-2018.html</link>
         
           <category>Home Seller Tips</category>
         
@@ -499,7 +499,7 @@ Pay special attention to any anomalies in the market. In the last three or four 
 It’s going to be an incredible 2018. We’ve already doubled our business from March  of last year so I predict a steaming spring market. If you have any questions for me or need help buying or selling a home, give me a call or send me an email today. I look forward to hearing from you.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nick+Shivers/%231+Real+Estate+Team+in+the+Portland+Metro++SW+Washington+The+best+time+to+list.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="portlandrealestatejournal.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Nick+Shivers/%231+Real+Estate+Team+in+the+Portland+Metro++SW+Washington+The+best+time+to+list.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>When is the best time of year to list your home? We’re going over that today.</itunes:subtitle>
@@ -510,7 +510,7 @@ It’s going to be an incredible 2018. We’ve already doubled our business from
       
       <item>
         <title>Who Is Better off in Today's Market: Buyers or Sellers?</title>
-        <link>localhost:4000/who-is-better-off-in-todays-market-buyers-or-sellers.html</link>
+        <link>portlandrealestatejournal.com/who-is-better-off-in-todays-market-buyers-or-sellers.html</link>
         
           <category>Real Estate</category>
         
@@ -540,7 +540,7 @@ As for sellers, make your move now. List your home before competition increases 
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nick+Shivers/%231+Real+Estate+Team+in+the+Portland+Metro++SW+Washington+Can+we+still+expect+multiple+offers.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="portlandrealestatejournal.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Nick+Shivers/%231+Real+Estate+Team+in+the+Portland+Metro++SW+Washington+Can+we+still+expect+multiple+offers.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>As has been the case for a while now, our market is currently experiencing high demand and very low supply. Today, I’ll be going over how buyers and sellers can navigate these market conditions.</itunes:subtitle>
@@ -551,7 +551,7 @@ If you have any other questions or would like more information, feel free to giv
       
       <item>
         <title>A New, Transparent Way to Sell Your Home</title>
-        <link>localhost:4000/a-new-transparent-way-to-sell-your-home.html</link>
+        <link>portlandrealestatejournal.com/a-new-transparent-way-to-sell-your-home.html</link>
         
           <category>Home Seller Tips</category>
         
@@ -581,7 +581,7 @@ I believe that this will revolutionize the way real estate is done, and we would
 If you have any questions, please don’t hesitate to reach out to us.
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nick+Shivers/%231+Real+Estate+Team+in+the+Portland+Metro++SW+Washington+How+does+a+rocket+listing+work.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="portlandrealestatejournal.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Nick+Shivers/%231+Real+Estate+Team+in+the+Portland+Metro++SW+Washington+How+does+a+rocket+listing+work.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>My Rocket Listing gives sellers a choice in how they sell their home. Here’s how it works.</itunes:subtitle>
@@ -592,7 +592,7 @@ If you have any questions, please don’t hesitate to reach out to us.
       
       <item>
         <title>Is Now a Good Time to Be a Buyer?</title>
-        <link>localhost:4000/is-now-a-good-time-to-be-a-buyer.html</link>
+        <link>portlandrealestatejournal.com/is-now-a-good-time-to-be-a-buyer.html</link>
         
           <category>Home Buyer Tips</category>
         
@@ -626,7 +626,7 @@ A 1% difference may not sound large, but a 1% difference in interest rates amoun
 If you have any other questions or would like more information, feel free to give me a call or send me an email. I look forward to hearing from you soon.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="portlandrealestatejournal.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Is 2018 going to be a good time for buyers to make their move? Actually, it is.</itunes:subtitle>
@@ -637,7 +637,7 @@ If you have any other questions or would like more information, feel free to giv
       
       <item>
         <title>Is 2018 the Year to Sell Your Home?</title>
-        <link>localhost:4000/is-2018-the-year-to-sell-your-home.html</link>
+        <link>portlandrealestatejournal.com/is-2018-the-year-to-sell-your-home.html</link>
         
           <category>Home Seller Tips</category>
         
@@ -667,7 +667,7 @@ If you need to sell, there is no reason to hesitate. None of the tax changes did
 If you have any other questions about our 2018 market or whether you should sell or not, don’t hesitate to reach out to me. I’d be happy to help you.
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="portlandrealestatejournal.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>Our economy is growing and our market is strong. If you need to sell your home, 2018 is the right time to do it.</itunes:subtitle>
@@ -678,7 +678,7 @@ If you have any other questions about our 2018 market or whether you should sell
       
       <item>
         <title>Thank You For an Incredible Year</title>
-        <link>localhost:4000/thank-you-for-an-incredible-year.html</link>
+        <link>portlandrealestatejournal.com/thank-you-for-an-incredible-year.html</link>
         
         <author>Nick Shivers</author>
         <pubDate>2017-12-20 05:30:00 -0600</pubDate>
@@ -700,7 +700,7 @@ In January, we’ll talk about the new tax rules for real estate and what 2018 h
 If you have any questions at all, feel free to contact me or my team. We’d be honored to help you. Until next year, have a merry Christmas and a happy New Year!
 </description>
         <enclosure url="https://s3.amazonaws.com/vyralmarketing/Nick+Shivers/%231+Real+Estate+Team+in+the+Portland+Metro++SW+Washington+Thank+you+and+happy+holidays.mp4" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="portlandrealestatejournal.com" height="72" width="72"/>
         <media:content url="https://s3.amazonaws.com/vyralmarketing/Nick+Shivers/%231+Real+Estate+Team+in+the+Portland+Metro++SW+Washington+Thank+you+and+happy+holidays.mp4" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>We’ve had an incredible year, thanks to all of you. With the little time we have left, I’d like to talk about an opportunity we have for you that will help a lot of kids.</itunes:subtitle>
@@ -711,7 +711,7 @@ If you have any questions at all, feel free to contact me or my team. We’d be 
       
       <item>
         <title>A Valuable New Resource For You</title>
-        <link>localhost:4000/a-valuable-new-resource-for-you.html</link>
+        <link>portlandrealestatejournal.com/a-valuable-new-resource-for-you.html</link>
         
           <category>Real Estate</category>
         
@@ -731,7 +731,7 @@ I really want this page to be a valuable resource for you.If you have any questi
 Take a look around. I look forward to hearing from you soon!
 </description>
         <enclosure url="" length="" type="video/mp4"/>
-        <media:thumbnail url="localhost:4000" height="72" width="72"/>
+        <media:thumbnail url="portlandrealestatejournal.com" height="72" width="72"/>
         <media:content url="" type="video/mp4"/>
         <itunes:explicit>no</itunes:explicit>
         <itunes:subtitle>A Valuable New Resource For You</itunes:subtitle>
