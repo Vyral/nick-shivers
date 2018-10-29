@@ -21,7 +21,7 @@ youtube_code: wXswmkca5Z4
 
 {% include youtube.html %}
 
-What makes My Rocket Listing better than Zillow or Open Door for Portland and Southwest Washington home sellers? I’ll explain today.
+<p style="text-align: center;"><em>What makes My Rocket Listing better than Zillow or Open Door for Portland and Southwest Washington home sellers? I’ll explain today.</em></p>
 
 What is the difference between [My Rocket Listing,](https://www.myrocketlisting.com/){: target="_blank"} Zillow, and a new company coming to Seattle from Wall Street called Open Door?&nbsp;
 
