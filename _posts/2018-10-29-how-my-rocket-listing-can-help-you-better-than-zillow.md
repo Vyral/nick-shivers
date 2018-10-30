@@ -5,7 +5,7 @@ date: 2018-10-29 14:10:00
 tags:
   - Real Estate
 excerpt: >-
-  What makes My Rocket Listing better than Zillow or Open Door for Portland and
+  What makes My Rocket Listing better than Zillow or Opendoor for Portland and
   Southwest Washington home sellers? I’ll explain today.
 enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Nick+Shivers/2018/%25231+Real+Estate+Team+in+the+Portland+Metro+%257C+SW+Washington+My+rocket+listing.mp4
@@ -21,9 +21,9 @@ youtube_code: wXswmkca5Z4
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>What makes My Rocket Listing better than Zillow or Open Door for Portland and Southwest Washington home sellers? I’ll explain today.</em></p>
+<p style="text-align: center;"><em>What makes My Rocket Listing better than Zillow or Opendoor for Portland and Southwest Washington home sellers? I’ll explain today.</em></p>
 
-What is the difference between [My Rocket Listing,](https://www.myrocketlisting.com/){: target="_blank"} Zillow, and a new company coming to Seattle from Wall Street called Open Door?&nbsp;
+What is the difference between [My Rocket Listing,](https://www.myrocketlisting.com/){: target="_blank"} Zillow, and a new company coming to Seattle from Wall Street called Opendoor?&nbsp;
 
 First of all, **My Rocket Listing offers choices.** When I come out to your house and tell you what price it will sell for, that’s usually the price it will sell for. Traditionally, other real estate agents might guess at a price, hold a few open houses, and drop the price. However, we wanted to create something different.&nbsp;
 
@@ -39,8 +39,8 @@ What does that mean? You would lose tens of thousands of dollars on that propert
 
 **Zillow relies on data, which doesn’t work in markets like Portland and Southwest Washington** because the neighborhoods are so different. Data can’t pick that up, so if you don’t have instant knowledge of your specific area, you could be in trouble.&nbsp;
 
-The same is true for Open Door. Open Door does a great job in Phoenix, AZ because a lot of those subdivisions are brand new. When you have 500 houses that are all the same, it’s easy to get data points. You can’t do that in Hawthorne or Belmont.&nbsp;
+The same is true for Opendoor. Opendoor does a great job in Phoenix, AZ because a lot of those subdivisions are brand new. When you have 500 houses that are all the same, it’s easy to get data points. You can’t do that in Hawthorne or Belmont.&nbsp;
 
-That’s why our program is designed to get you the maximum convenience and maximum value. My Rocket Listing is your best choice for choices.
+That’s why our program is designed to get you the maximum convenience and maximum value. My Rocket Listing is your best choice.
 
 If you have any other questions about [My Rocket Listing,](https://www.myrocketlisting.com/){: target="_blank"} just give me a call or send me an email. I would be happy to help you!
