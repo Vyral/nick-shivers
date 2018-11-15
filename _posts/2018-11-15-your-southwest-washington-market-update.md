@@ -19,7 +19,7 @@ youtube_code: Kt_dXr0CY1w
 
 {% include youtube.html %}
 
-October brought fewer home sales and increased inventory. Here’s what that means for our market.
+<p style="text-align: center;"><em>October brought fewer home sales and increased inventory. Here’s what that means for our market.</em></p>
 
 Today we’ll be looking at our latest numbers from October, as well as what they mean for our market in the near future. Here’s what I found.
 
