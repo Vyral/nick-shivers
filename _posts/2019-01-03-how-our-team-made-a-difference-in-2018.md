@@ -23,7 +23,7 @@ youtube_code: 6CD3n1HrW2M
 
 {% include youtube.html %}
 
-Last year, our team raised and donated over $1 million through our “Sell a Home, Save a Child” program. For today’s message, we’d like to share an inspiring story about one of the organizations, and one of the young women, this money went toward.
+<p style="text-align: center;"><em>Last year, our team raised and donated over $1 million through our “Sell a Home, Save a Child” program. For today’s message, we’d like to share an inspiring story about one of the organizations, and one of the young women, this money went toward.</em></p>
 
 Now that we’ve entered the new year, we’d like to talk about the contributions we made in 2018 through our “Sell a Home, Save a Child” program. We were able to raise and donate over $1 million through this program—all as part of our continued effort to help underprivileged children across the world, including those from Kenya, Haiti, and Baltimore, Maryland, to name a few.&nbsp;
 
