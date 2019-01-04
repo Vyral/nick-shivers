@@ -13,7 +13,7 @@ enclosure: >-
   https://s3.amazonaws.com/vyralmarketing/Nick+Shivers/2019/%231+Real+Estate+Team+in+the+Portland+Metro+_+SW+Washington+Sell+a+Home+Save+a+Child.mp4
 pullquote: >-
   As we move forward through 2019, we look forward to continuing in this
-  mission: To help give underprivileged children a chance.
+  mission: to help give underprivileged children a chance.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
