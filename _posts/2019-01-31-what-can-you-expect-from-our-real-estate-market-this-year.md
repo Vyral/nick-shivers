@@ -19,7 +19,7 @@ youtube_code: b-RGPyIgS1M
 
 {% include youtube.html %}
 
-<p style="text-align; center;"><em>I’m predicting quite a few changes for our market this year. Here are five of them to expect in 2019.</em></p>
+<p style="text-align: center;"><em>I’m predicting quite a few changes for our market this year. Here are five of them to expect in 2019.</em></p>
 
 It’s 2019 and I’m here to give you my predictions for our real estate market this year and what you can expect:
 
