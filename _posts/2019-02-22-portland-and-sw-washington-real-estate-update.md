@@ -17,7 +17,7 @@ youtube_code: qA3pLkPoTbw
 
 {% include youtube.html %}
 
-What have we seen in our year-to-year numbers? Let’s find out.
+<p style="text-align: center;"><em>What have we seen in our year-to-year numbers? Let’s find out.</em></p>
 
 Today we’ll be going over the latest numbers for our Portland and SW Washington real estate market.
 
