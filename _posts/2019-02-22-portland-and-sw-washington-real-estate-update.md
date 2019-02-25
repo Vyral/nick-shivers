@@ -25,7 +25,7 @@ In Portland, 533 homes were sold in the first two weeks of January compared to 6
 
 **We had a tough December in both areas.** Portland had 21% fewer sales in December 2018 compared to 2017 and SW Washington had 15% fewer. Portland had 10% fewer pending sales and SW Washington had 3% fewer.&nbsp;
 
-Appreciation is still increasing, however. Portland saw a 5.5% appreciation in 2018. This is 8.3% less than what we’ve been seeing, but it’s still great historically. Inventory and the number of days on market are both increasing, **which will either slow down appreciation or even cause depreciation.&nbsp;**
+Home values are still increasing, but not by quite as much as we've become used to. The 5.5% appreciation rate we ended 2018 with is 8.3% lower than what we've observed in the recent past; however, this is still a strong rate, historically speaking. Inventory and the number of days on market are both increasing, **which will either slow down appreciation or even cause depreciation.&nbsp;**
 
 There are also a lot of new construction homes hitting the market, which is good if you’re a buyer. If you’re a seller, you just have to be realistic and watch what the competition is doing in the coming months.
 
