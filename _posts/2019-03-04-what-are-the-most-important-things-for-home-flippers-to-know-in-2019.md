@@ -19,7 +19,7 @@ youtube_code: nawlibmAomg
 
 {% include youtube.html %}
 
-The home flipping game isn’t the same as it was 10 years ago. Here’s what you need to know in order to be successful at it in 2019.
+<p style="text-align: center;"><em>The home flipping game isn’t the same as it was 10 years ago. Here’s what you need to know in order to be successful at it in 2019.</em></p>
 
 I get probably three to four calls a week from potential real estate investors. If they called me back in 2012, I would have told all of them to go for it right away. However, to get involved in today’s real estate market, there are a few prerequisites you need to have:
 
