@@ -21,9 +21,9 @@ youtube_code: nawlibmAomg
 
 <p style="text-align: center;"><em>The home flipping game isn’t the same as it was 10 years ago. Here’s what you need to know in order to be successful at it in 2019.</em></p>
 
-I get probably three to four calls a week from potential real estate investors. If they called me back in 2012, I would have told all of them to go for it right away. However, to get involved in today’s real estate market, there are a few prerequisites you need to have:
+I get probably three to four calls a week from people who are thinking of investing in real estate. If they called me back in 2012, I would have told all of them to go for it right away. However, to get involved in today’s real estate market, there are a few prerequisites you need to have:
 
-**1. Know your numbers.** If you’ve never flipped a house or know anything about construction and you’re getting a loan at 10%, I’m going to advise you to run.&nbsp;
+**1. Know your numbers.** If you’ve never flipped a house or don't know anything about construction and you’re getting a loan at 10%, I’m going to advise you to run.&nbsp;
 
 **2. Stay away from long-term rehabs.** Anything over six months runs the risk of trouble if the market shifts too much.
 
