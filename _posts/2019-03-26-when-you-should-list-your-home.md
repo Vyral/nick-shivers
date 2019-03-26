@@ -21,7 +21,7 @@ youtube_code: 1BWUWZRM73k
 
 May was the best time to list in 2018 for a few reasons: You would have received 6% more on your list price, 14% more views online through Zillow and Realtor.com, and 4% more walk-throughs. I think the same will be true in 2019, **but it’ll happen a month earlier in April.**
 
-{% include youtube.html %}
+{% include pullquote.html %}
 
 Last December, we were down 21% in sales year over year. January was almost in the double digits, and February was about a 5% decrease. Now that we’re toward the end of March, we’re also looking at about 4% to 5% fewer sales.&nbsp;
 
