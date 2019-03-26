@@ -17,7 +17,7 @@ youtube_code: 1BWUWZRM73k
 
 {% include youtube.html %}
 
-The best time to list in 2019 is different from last year, and here’s why.
+<p style="text-align: center;"><em>The best time to list in 2019 is different from last year, and here’s why.</em></p>
 
 May was the best time to list in 2018 for a few reasons: You would have received 6% more on your list price, 14% more views online through Zillow and Realtor.com, and 4% more walk-throughs. I think the same will be true in 2019, **but it’ll happen a month earlier in April.**
 
