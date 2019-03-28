@@ -25,6 +25,6 @@ May was the best time to list in 2018 for a few reasons: You would have received
 
 Last December, we were down 21% in sales year over year. January was almost in the double digits, and February was about a 5% decrease. Now that we’re toward the end of March, we’re also looking at about 4% to 5% fewer sales.&nbsp;
 
-There’s still a lack of inventory, but more is expected to hit the market. **That’s why I think April will be the best time to list—there’ll simply be less competition for you to face.** After April, I expect we’ll see a dramatic increase in inventory, especially with South Washington’s new construction homes.
+There’s still a lack of inventory, but more is expected to hit the market. **That’s why I think April will be the best time to list—there’ll simply be less competition that you'll face.** After April, I expect we’ll see a dramatic increase in inventory, especially with South Washington’s new construction homes.
 
 If you have any questions or would like more information, feel free to reach out to me. I look forward to hearing from you soon.
