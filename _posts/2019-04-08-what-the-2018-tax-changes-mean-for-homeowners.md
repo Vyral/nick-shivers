@@ -17,7 +17,7 @@ youtube_code: '-ODd4xCZYTs'
 
 {% include youtube.html %}
 
-What do the recent tax changes mean for you? Let’s take a look.
+<p style="text-align: center;"><em>What do the recent tax changes mean for you? Let’s take a look.</em></p>
 
 Are you aware of the tax changes that were made in 2018? Here are the four things that have been affected:
 
