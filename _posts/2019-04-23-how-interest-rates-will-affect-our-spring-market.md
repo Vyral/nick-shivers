@@ -1,7 +1,7 @@
 ---
 layout: post
 title: How Interest Rates Will Affect Our Spring Market
-date:
+date: 2019-04-23 18:48:29
 tags:
   - Market Update
 excerpt: >-
@@ -23,9 +23,9 @@ youtube_code: QIz5G1qt6Ak
 
 What do our current interest rates mean for the market’s health? Here’s what I think.
 
-Here’s something I’m sure you’ll all be excited to hear: Interest rates are at a 14-month low.&nbsp;
+Here’s something I’m sure you’ll all be excited to hear: Interest rates are at a 14-month low. 
 
-**Our current rates are great, and they’ll have a beneficial impact on our spring market.** It all comes down to affordability. In the Portland and Southwest Washington area, our market has been down year over year. But since rates have decreased and are expected to stay low, there’s great news for buyers and sellers alike.&nbsp;
+**Our current rates are great, and they’ll have a beneficial impact on our spring market.** It all comes down to affordability. In the Portland and Southwest Washington area, our market has been down year over year. But since rates have decreased and are expected to stay low, there’s great news for buyers and sellers alike. 
 
 Though we’ve seen a 10% decrease in affordability recently, I believe we’ll get it back thanks to low rates. **Overall, these rates will definitely do us a favor**; homebuyers will have more inventory to choose from, and sellers will still be able to make some great sales.
 
