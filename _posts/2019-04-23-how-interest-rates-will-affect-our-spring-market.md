@@ -21,7 +21,7 @@ youtube_code: QIz5G1qt6Ak
 
 {% include youtube.html %}
 
-<p style="text-alighn: center;"><em>What do our current interest rates mean for the market’s health? Here’s what I think.</em></p>
+<p style="text-align: center;"><em>What do our current interest rates mean for the market’s health? Here’s what I think.</em></p>
 
 Here’s something I’m sure you’ll all be excited to hear: Interest rates are at a 14-month low. 
 
