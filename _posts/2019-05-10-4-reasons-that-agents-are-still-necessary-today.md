@@ -20,7 +20,7 @@ youtube_code: sKZJgAsXfpg
 
 {% include youtube.html %}
 
-With so much new technology coming to the real estate industry, many people are wondering if a professional agent is still necessary when buying or selling a home. They are, and here are four good reasons why.
+<p style="text-align: center;"><em>With so much new technology coming to the real estate industry, many people are wondering if a professional agent is still necessary when buying or selling a home. They are, and here are four good reasons why.</em></p>
 
 **Today’s topic: Are agents still relevant?** In the age of algorithms, instant offers, and robots, do agents still matter?
 
