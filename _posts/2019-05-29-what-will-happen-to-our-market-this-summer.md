@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/ACAuwzBYVFM'
 
 {% include youtube.html %}
 
-What’s happening now in our market and what will the summer months bring? Find out with this short market update.
+<p style="text-align: center;"><em>What’s happening now in our market and what will the summer months bring? Find out with this short market update.</em></p>
 
 With summer just around the corner, many are wondering what the season will bring for our local real estate market.&nbsp;
 
