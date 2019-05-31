@@ -23,7 +23,7 @@ youtube_code: 'https://youtu.be/ACAuwzBYVFM'
 
 With summer just around the corner, many are wondering what the season will bring for our local real estate market.&nbsp;
 
-Truthfully, **one of the best ways to predict where our market’s headed is to look at where it’s at right now.** So let’s do that now:
+Truthfully, **one of the best ways to predict where our market’s headed is to look at where it’s at right now.**
 
 Year-to-date, sales are down 7.5% in Portland and the average amount of time that listings spend on the market is up to 66 days—a 19.9% increase.&nbsp;
 
