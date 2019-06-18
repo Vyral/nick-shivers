@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/KYgQDuYNgxc'
 
 {% include youtube.html %}
 
-iBuyers are trying to disrupt the market, but will they end up replacing real estate agents? Here’s my answer.
+<p style="text-align: center;"><em>iBuyers are trying to disrupt the market, but will they end up replacing real estate agents? Here’s my answer.</em></p>
 
 You may or may not have heard the term “iBuyer” recently. If you haven’t, let me explain. “iBuyers” are organizations that are backed by hedge funds and venture capitalists and they’re trying to disrupt the way homes are sold. **Their pitch is that they can get your home sold in the click of a button.&nbsp;**
 
