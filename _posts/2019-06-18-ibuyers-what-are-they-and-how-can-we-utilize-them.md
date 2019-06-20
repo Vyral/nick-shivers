@@ -21,9 +21,9 @@ youtube_code: 'https://youtu.be/KYgQDuYNgxc'
 
 <p style="text-align: center;"><em>iBuyers are trying to disrupt the market, but will they end up replacing real estate agents? Here’s my answer.</em></p>
 
-You may or may not have heard the term “iBuyer” recently. If you haven’t, let me explain. “iBuyers” are organizations that are backed by hedge funds and venture capitalists and they’re trying to disrupt the way homes are sold. **Their pitch is that they can get your home sold in the click of a button.&nbsp;**
+You may or may not have heard the term “iBuyer” recently. If you haven’t, let me explain. “iBuyers” are organizations that are backed by hedge funds and venture capitalists and they’re trying to disrupt the way homes are sold. **Their pitch is that they can get your home sold at the click of a button.&nbsp;**
 
-When things seem too good to be true, they traditionally are. iBuyers will have a place in the market going forward, but they’re not for everyone.&nbsp;
+When things seem too good to be true, they typically are. iBuyers will have a place in the market going forward, but they’re not for everyone.&nbsp;
 
 We actually offer our own iBuyer program called My Rocket Listing. This is a program for our clients who prefer convenience over maximum value. **Typically, we pay 92% to 93% of resale value for homes based on what we think the home is worth, but we offer cash and a quick close.&nbsp;**
 
