@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/EmYWyTXLQZk'
 
 {% include youtube.html %}
 
-Rental properties can be a great investment if they’re properly vetted beforehand. Here’s what you need to know to do just that.
+<p style="text-align: center;"><em>Rental properties can be a great investment if they’re properly vetted beforehand. Here’s what you need to know to do just that.</em></p>
 
 I believe that rental properties in the Portland and SW Washington area are one of the best, if not the best, investments you can make. However, you need to have some knowledge about the market and the process beforehand in order to proceed with confidence.
 
