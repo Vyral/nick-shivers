@@ -25,7 +25,7 @@ I believe that rental properties in the Portland and SW Washington area are one 
 
 First, where do you find investment properties? If you just go out and buy a retail home in a slower market, like the one we’re seeing right now, you have to be careful. There are a few different philosophies when it comes to making a real estate investment.
 
-One thing’s for sure. Y**ou need to have a high cap rate in order to justify the investment.** Your mortgage is an expense, as is your property management, fix-ups, and more. Then you need to determine what you’re bringing in for your rental. The difference between the two is your net profit. **Then you divide that by what you paid for a property to get your cap rate.&nbsp;**
+One thing’s for sure: **You need to have a high cap rate in order to justify the investment.** Your mortgage is an expense, as is your property management, fix-ups, and more. Then you need to determine what you’re bringing in for your rental. The difference between the two is your net profit. **Then you divide that by what you paid for a property to get your cap rate.&nbsp;**
 
 In a hot market, **if you can get a cap rate of 4% to 5%, that’s a great investment.** If you’re in a market like Cleveland, Ohio, however, you don’t want a 4% to 5% cap rate because your appreciation isn’t going to be as high as it would be here. You’d want a cap rate that’s two or three times higher. When you purchase your property, you want to have some equity, either on the purchase price or in the repairs you make. **If you break even on that investment, but have 15% to 20% equity, I think that's a win.**
 
