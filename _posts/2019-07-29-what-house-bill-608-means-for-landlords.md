@@ -10,7 +10,8 @@ pullquote: >-
   None of this applies to tenants who haven’t been paying rent or have otherwise
   failed to meet their contractual requirements laid out by their lease.
 enclosure_type: video/mp4
-enclosure_time:
+enclosure_time:  >-
+  https://vyralmarketing.s3.amazonaws.com/Nick+Shivers/2019/Jul+2.mp4
 use_youtube_image: true
 youtube_alternate_image:
 youtube_code: 'https://youtu.be/XmSZcb3l60E'
