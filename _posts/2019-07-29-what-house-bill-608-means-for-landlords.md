@@ -18,7 +18,7 @@ youtube_code: 'https://youtu.be/XmSZcb3l60E'
 
 {% include youtube.html %}
 
-What does House Bill 608 mean for landlords and renters? Find out today.
+<p style="text-align: center;"><em>What does House Bill 608 mean for landlords and renters? Find out today.</em></p>
 
 House Bill 608, which is related to rent increase limits, no-cause eviction, and relocation, has a lot of people concerned about the future of our market. Today, though, let’s dive into the facts.&nbsp;
 
