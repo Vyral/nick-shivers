@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   It’s almost fall and I wanted to bring you a market update as we head into the
   home stretch of our hot selling season.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Nick+Shivers/2019/Aug+1+(1).mp4
 pullquote: I think 2020 will be an interesting year.
 enclosure_type: video/mp4
 enclosure_time:
