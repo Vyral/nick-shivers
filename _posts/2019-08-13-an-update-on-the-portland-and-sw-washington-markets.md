@@ -18,7 +18,7 @@ youtube_code: 'https://youtu.be/P5CHUUFC3yo'
 
 {% include youtube.html %}
 
-It’s almost fall and I wanted to bring you a market update as we head into the home stretch of our hot selling season.
+<p style="text-align: center;"><em>It’s almost fall and I wanted to bring you a market update as we head into the home stretch of our hot selling season.</em></p>
 
 I’ve got big news to share with you this week. **The Federal Reserve just cut interest rates for the first time in a long time.** They dropped by 0.25%, but the knowledge was out there in the mortgage market that this was going to happen. Rates won’t change much as a result.
 
