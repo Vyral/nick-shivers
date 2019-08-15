@@ -27,8 +27,8 @@ I’ve got big news to share with you this week. **The Federal Reserve just cut 
 
 {% include pullquote.html %}
 
-**In Southwest Washington, year-over-year sales were down roughly 2% in July.** However, the appreciation in this are is up by 4% over the last year.
+**In Southwest Washington, year-over-year sales were down roughly 2% in July.** However, the appreciation in this area is up by 4% over the last year.
 
-**For the rest of the summer, I predict a pretty good market as we enter the fall.** Come 2020, however, there is some looming information to look at. In a recent survey, 85% of real estate experts and economists predicted that we will see a slight recession in the next year. It won’t be fueled by real estate like the last one, but I think 2020 will be an interesting year.
+**For the rest of the summer, I predict a pretty good market as we enter the fall.** Come 2020, however, there is some foreboding information to look at. In a recent survey, 85% of real estate experts and economists predicted that we will see a slight recession in the next year. It won’t be fueled by real estate like the last one, but I think 2020 will be an interesting year.
 
 If you have any questions for me in the meantime about the Portland or Southwest Washington real estate markets, don’t hesitate to give me a call or send me an email. I look forward to hearing from you soon.
