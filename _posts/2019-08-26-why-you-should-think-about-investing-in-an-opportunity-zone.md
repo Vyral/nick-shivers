@@ -20,7 +20,7 @@ youtube_code: 'https://youtu.be/HvTImSM4KuE'
 
 {% include youtube.html %}
 
-Opportunity zones, as the name implies, are full of opportunities. But what are they? Find out with this message.
+<p style="text-align: center;"><em>Opportunity zones, as the name implies, are full of opportunities. But what are they? Find out with this message.</em></p>
 
 There’s a lot of information circulating about the topic of **opportunity zones**, but the sad truth is that much of it is just plain wrong. Today I’d like to help you gain a better (and truer) understanding of what an opportunity zone is by hitting some main points.&nbsp;
 
