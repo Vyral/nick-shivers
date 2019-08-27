@@ -32,10 +32,12 @@ Essentially, **if you invest in real estate or a business in an area identified 
 
 {% include pullquote.html %}
 
-Now, you’ll notice I said 10 years in my example. That’s because **you’ll need to hold the property for at least that long to maximize your tax incentive.** If you chose to sell at the 5- or 7-year mark instead, your tax rate would be around 10% or 15%, respectively.&nbsp;
+Now, you’ll notice I said 10 years in my example. That’s because **you’ll need to hold the property for at least that long to maximize your tax incentive.** If you chose to sell at the five- or seven-year mark instead, your tax rate would be around 10% or 15%, respectively.&nbsp;
 
-Using the same example, suppose you sold that home for $400,000, meaning you made $100,000 in capital gains. You can then invest your $100,000 in what’s called an ‘opportunity fund’ and receive a 6-year tax deferral on that money. Beyond that, you can actually receive an additional 15% off your money depending on how long you hold it. So if you owe $100,000 in capital gains, you’ll be able to trim 15% off and you’ll only owe $85,000.&nbsp;
+Using the same example, suppose you sold that home for $400,000, meaning you made $100,000 in capital gains. You can then invest your $100,000 in what’s called an ‘opportunity fund’ and receive a six-year tax deferral on that money. Beyond that, you can actually receive an additional 15% off your money depending on how long you hold it. So if you owe $100,000 in capital gains, you’ll be able to trim 15% off and you’ll only owe $85,000.&nbsp;
 
 Above all else, **be sure the area you’re investing in is well worth your investment** because not every opportunity zone bears fruit. You don’t want to invest $300,000 in a property that’s valued at $270,000 in 10 years if it can be helped.&nbsp;
 
-The bottom line is opportunity zones often live up to their title, as many are full of opportunities, but research is vitally important before you invest.&nbsp;<br>Why You Should Think About Investing in an Opportunity Zone<br>If you have any questions or would like more information about this topic, please don’t hesitate to reach out to us. We look forward to speaking with you\!
+The bottom line is opportunity zones often live up to their title, as many are full of opportunities, but research is vitally important before you invest.
+
+If you have any questions or would like more information about this topic, please don’t hesitate to reach out to us. We look forward to speaking with you\!
