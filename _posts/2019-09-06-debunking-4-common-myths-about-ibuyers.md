@@ -21,7 +21,7 @@ youtube_code: 'https://youtu.be/gYCiDGHcMzw'
 
 {% include youtube.html %}
 
-What’s the deal with selling to iBuyers? Today we’ll separate fact from fiction by sharing four common iBuyer myths.
+<p style="text-align: center;"><em>What’s the deal with selling to iBuyers? Today we’ll separate fact from fiction by sharing four common iBuyer myths.</em></p>
 
 There’s a lot of misinformation out there surrounding iBuyers, which is why today we’re going to shed light on a few of the examples. Here are four of the most common iBuyer Myths:&nbsp;
 
