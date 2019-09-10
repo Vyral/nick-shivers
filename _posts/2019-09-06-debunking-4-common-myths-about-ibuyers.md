@@ -8,7 +8,7 @@ excerpt: >-
   What’s the deal with selling to iBuyers? Today we’ll separate fact from
   fiction by sharing four common iBuyer myths.
 enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Nick+Shivers/2019/%231+Real+Estate+Team+in+the+Portland+Metro+_+SW+Washington+4+Myths+About+iBuyers.mp4
+  https://vyralmarketing.s3.amazonaws.com/Nick+Shivers/2019/%231+Real+Estate+Team+in+the+Portland+Metro+_+SW+Washington+lowballs.mp4
 pullquote: >-
   You might think that selling to an iBuyer cuts out the necessity to hire a
   Realtor, but this couldn’t be further from the truth.
