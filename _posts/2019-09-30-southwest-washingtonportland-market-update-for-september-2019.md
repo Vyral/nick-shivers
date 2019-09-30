@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/KPGbvqIw_Ag'
 
 {% include youtube.html %}
 
-Now that we’ve reached the end of September, what does the market look like? Find out here.
+<p style="text-align: center;"><em>Now that we’ve reached the end of September, what does the market look like? Find out here.</em></p>
 
 In today’s end-of-summer market update, I’ll first discuss the Oregon market before moving onto the Clark County/Southwest Washington.
 
