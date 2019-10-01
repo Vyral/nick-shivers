@@ -31,7 +31,7 @@ The average sales price was about $459,000 this month. Additionally, the number 
 
 {% include pullquote.html %}
 
-Moving up to our neighbors to the north in Clark County, we saw that the number of closed sales dropped by 1.2% over the year. For the month of September specifically, closed sales are down 5%.
+Moving up to our neighbors to the north in Clark County, we saw that the number of closed sales dropped by 1.2% over the year. For September specifically, closed sales are down 5%.
 
 Clark County did experience a bit more appreciation than we did here in Oregon—homes there had a 3.1% rate of appreciation. The average sales price is roughly around $405,000.
 
