@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/2Y00fdQUjnA'
 
 {% include youtube.html %}
 
-Should you list your home during the holidays? Find out today.
+<p style="text-align: center;"><em>Should you list your home during the holidays? Find out today.</em></p>
 
 Many people have been asking if they should list their home during the holidays. Can they even sell a home this time of year?
 
