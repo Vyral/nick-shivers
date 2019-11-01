@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/znK2sjWqRt0'
 
 {% include youtube.html %}
 
-The Southwest Washington market has remained hot this fall. Let’s discuss.&nbsp;
+<p style="text-align: center;"><em>The Southwest Washington market has remained hot this fall. Let’s discuss.</em></p>
 
 There’s been a lot of talk about what’s happening now in our Portland and Southwest Washington real estate market, so let’s cut through the gossip and get straight to the facts with a quick update on what’s going on.&nbsp;
 
