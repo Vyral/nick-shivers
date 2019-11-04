@@ -33,7 +33,7 @@ Even more recently, in October things have ramped up even more, with the number 
 
 **But what about the Southwest Washington market, in general?&nbsp;**
 
-Well, much like in Portland the closed sales for SW Washington were up. Though, at an increase of 8%, the year-over-year growth for this statistic was nearly double for Southwest Washington compared to what was true of Portland alone. Home appreciation in SW Washington also rose, going up 3.1% year over year, and the average sales price went up too—now sitting at $404,000.&nbsp;
+Well, much like in Portland, the closed sales for SW Washington were up. Though, at an increase of 8%, the year-over-year growth for this statistic was nearly double for Southwest Washington compared to what was true of Portland alone. Home appreciation in SW Washington also rose, going up 3.1% year over year, and the average sales price went up too—now sitting at $404,000.&nbsp;
 
 And, as was true of Portland specifically, our wider Southwest Washington market has gotten even hotter in October. Assuming things continue in this direction, we’re in for one of the strongest fourth-quarter markets we’ve seen in some time.&nbsp;
 
