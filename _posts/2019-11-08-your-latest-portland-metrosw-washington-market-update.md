@@ -21,7 +21,7 @@ youtube_code: 'https://youtu.be/TaTJfmpvqCQ'
 
 {% include youtube.html %}
 
-According to the latest numbers, year-over-year closed sales have increased the past two months in our market.
+<p style="text-align: center;"><em>According to the latest numbers, year-over-year closed sales have increased the past two months in our market.</em></p>
 
 What do the latest numbers say about our Portland Metro/Southwest Washington market?
 
