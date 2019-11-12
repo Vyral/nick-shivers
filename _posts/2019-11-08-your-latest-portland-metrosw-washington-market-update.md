@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Your Latest Portland Metro/SW Washington Market Update
-date: 2019-11-08 21:09:15
+date: 2019-11-08 21:09:00
 tags:
   - Market Update
 excerpt: >-
@@ -21,7 +21,7 @@ youtube_code: 'https://youtu.be/TaTJfmpvqCQ'
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>According to the latest numbers, year-over-year closed sales have increased the past two months in our market.</em></p>
+*According to the latest numbers, year-over-year closed sales have increased the past two months in our market.*
 
 What do the latest numbers say about our Portland Metro/Southwest Washington market?
 
@@ -31,12 +31,12 @@ In Southwest Washington, things slowed down a little bit in October. The number 
 
 {% include pullquote.html %}
 
-**Year over year, we’re about even as far as sales go, but Southwest Washington has done a little better than Oregon.** Why did the number of closed sales increase the last two months? Interest rates have been pushing buyers forward, buy they’ve gone up lately, hence the slowdown.&nbsp;
+**Year over year, we’re about even as far as sales go, but Southwest Washington has done a little better than Oregon.** Why did the number of closed sales increase over the last two months? Interest rates have been pushing buyers forward, but they’ve gone up lately, hence the slowdown.&nbsp;
 
 Here are the top five hottest markets in both areas:
 
 5\. Hillsborough/Rock Creek<br>4\. Tigard/Metzger<br>3\. North Tabor/Hollywood<br>2\. Beaverton/Aloha<br>1\. Oregon City/Happy Valley&nbsp;
 
-In weather parlance, our area in general is a balmy 67&deg; to 75&deg;.
+In weather parlance, our area in general, is a balmy 67&deg; to 75&deg;.
 
 As always, if you have any more questions about our market or you’re thinking of buying or selling a home soon, don’t hesitate to reach out to me. I’d love to help you.
