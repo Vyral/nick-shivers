@@ -21,7 +21,7 @@ youtube_code: 'https://youtu.be/NiK6E1Tvyo0'
 
 {% include youtube.html %}
 
-Even if you’re selling to an iBuyer, you still need an agent by your side. Here’s why.
+<p style="text-align: center;"><em>Even if you’re selling to an iBuyer, you still need an agent by your side. Here’s why.</em></p>
 
 Are you considering selling to an iBuyer? Do you even need an agent to do this? Before we answer that question, let’s discuss three common assumptions regarding iBuyers and whether they qualify as “fact” or “myth”:&nbsp;
 
