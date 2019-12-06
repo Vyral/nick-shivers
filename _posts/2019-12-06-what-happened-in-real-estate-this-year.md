@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/gm30dgsdxI0'
 
 {% include youtube.html %}
 
-Some of my predictions for our real estate market this year have come true, while others have not. Here’s a breakdown of all of them.
+<p style="text-align: center;"><em>Some of my predictions for our real estate market this year have come true, while others have not. Here’s a breakdown of all of them.</em></p>
 
 It’s time for a 2019 real estate recap to see how the Portland market fared this year.
 
