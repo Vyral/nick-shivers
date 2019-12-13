@@ -18,7 +18,7 @@ youtube_code: 'https://youtu.be/ST3LCZJyMvU'
 
 {% include youtube.html %}
 
-With the holiday season in full swing, my team and I have a lot to be thankful for—including you.
+<p style="text-align: center;"><em>With the holiday season in full swing, my team and I have a lot to be thankful for—including you.</em></p>
 
 The holiday season is here, and I have a few special announcements to make.
 
