@@ -22,7 +22,7 @@ youtube_code: 'https://youtu.be/ST3LCZJyMvU'
 
 The holiday season is here, and I have a few special announcements to make.
 
-First, my team and I have a lot for which to be thankful. We were able to serve 274 clients in 2019, and we’re blessed to be able to do this.
+First, my team and I have a lot to be thankful for. We were able to serve 274 clients in 2019, and we’re blessed to be able to do this.
 
 Second, I want to thank everyone who joined us in the “Sell a Home, Save a Child” initiative. We’ve raised $1.6 million so far for underprivileged children.
 
