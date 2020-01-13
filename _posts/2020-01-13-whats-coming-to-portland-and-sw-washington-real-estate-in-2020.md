@@ -19,7 +19,7 @@ youtube_code: 'https://youtu.be/FELorK7p3EE'
 
 {% include youtube.html %}
 
-As we head into a new year and a new decade, I’ve got an update to share for our real estate market and what you can expect moving forward.
+<p style="text-align: center;"><em>As we head into a new year and a new decade, I’ve got an update to share for our real estate market and what you can expect moving forward.</em></p>
 
 I can’t believe that 2020 is here. Now that we’re in the new year, what can you expect from the real estate market as we move forward?
 
