@@ -29,7 +29,7 @@ So far in the first week of January, that trend is continuing. We already have m
 
 {% include pullquote.html %}
 
-**Rent values have gone up as well.** In Portland, we’re sitting at a $2,000 average. In Vancouver, that average is hovering between $,1700 and $1,8000, and the average for Salem is just around $1,500.
+**Rent values have gone up as well.** In Portland, we’re sitting at a $2,000 average. In Vancouver, that average is hovering between $1,700 and $1,800, and the average for Salem is just around $1,500.
 
 Why and what can we expect going forward? I believe that the first quarter of 2020 will be an extremely good first quarter. I’m seeing sellers who are more realistic in their pricing compared to last year. The only area where I can see a little cloud hanging over is the luxury market. **We’ve seen an increase in inventory of about six months in this type frame, but it all depends on the specific market we’re in.**
 
