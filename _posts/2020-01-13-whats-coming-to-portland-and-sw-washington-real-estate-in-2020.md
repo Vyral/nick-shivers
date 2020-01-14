@@ -23,7 +23,7 @@ youtube_code: 'https://youtu.be/FELorK7p3EE'
 
 I can’t believe that 2020 is here. Now that we’re in the new year, what can you expect from the real estate market as we move forward?
 
-**We had an incredible finish to 2019.** In December, the Portland Metro was up 12, Vancouver was up 16.7%, and Salem was up by 9.7% for closed sales.&nbsp;
+**We had an incredible finish to 2019.** In December, the Portland Metro was up 12%, Vancouver was up 16.7%, and Salem was up by 9.7% for closed sales.&nbsp;
 
 So far in the first week of January, that trend is continuing. We already have more sales so far in 2020 than we did at this point in 2019.
 
@@ -31,7 +31,7 @@ So far in the first week of January, that trend is continuing. We already have m
 
 **Rent values have gone up as well.** In Portland, we’re sitting at a $2,000 average. In Vancouver, that average is hovering between $1,700 and $1,800, and the average for Salem is just around $1,500.
 
-Why and what can we expect going forward? I believe that the first quarter of 2020 will be an extremely good first quarter. I’m seeing sellers who are more realistic in their pricing compared to last year. The only area where I can see a little cloud hanging over is the luxury market. **We’ve seen an increase in inventory of about six months in this type frame, but it all depends on the specific market we’re in.**
+Why and what can we expect going forward? I believe that the first quarter of 2020 will end excellently. I’m seeing sellers who are more realistic in their pricing compared to last year. The only area where I can see a little cloud hanging over is the luxury market. **We’ve seen an increase in inventory of about six months, but it all depends on the specific market we’re in.**
 
 That being said, I’m looking forward to a strong start to 2020 and I hope you are as well.
 
