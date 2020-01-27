@@ -19,7 +19,7 @@ youtube_code: gi52uUn4e50
 
 {% include youtube.html %}
 
-I’m sharing five tips for how to sell your home when it’s vacant.
+<p style="text-align: center;"><em>I’m sharing five tips for how to sell your home when it’s vacant.</em></p>
 
 How do you sell your home while it’s vacant? The steps for this are different than selling a home that you’re living in. Here are five tips to improve the sale of your vacant home:
 
