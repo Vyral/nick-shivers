@@ -21,7 +21,7 @@ youtube_code: xzNs7exnzgc
 
 {% include youtube.html %}
 
-If you assume our Portland metro market will slow down in 2020, the numbers indicate otherwise.
+<p style="text-align: center;"><em>If you assume our Portland metro market will slow down in 2020, the numbers indicate otherwise.</em></p>
 
 Our real estate market has to slow down soon, right?
 
