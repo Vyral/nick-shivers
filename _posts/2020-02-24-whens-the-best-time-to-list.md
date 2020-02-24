@@ -19,7 +19,7 @@ youtube_code: qNM6ro04NBU
 
 {% include youtube.html %}
 
-Something’s different about our market so far in 2020, and here’s why it’s great news for sellers.
+<p style="text-align: center;"><em>Something’s different about our market so far in 2020, and here’s why it’s great news for sellers.</em></p>
 
 When’s the best time to list your home for maximum value? So, historically, in a normal Northwest area market, you’d be looking at March, April, May, June, July, and August. Those six are, statistically speaking, the months in which you will get more money and quicker sales.&nbsp;
 
