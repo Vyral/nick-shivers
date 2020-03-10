@@ -21,7 +21,7 @@ youtube_code: iy4S5MPp3uQ
 
 {% include youtube.html %}
 
-<p style="text-align: center;"><em>It’s getting nice outside, and spring is in the air\! Here’s what to expect from our 2020 spring market.</em></p>
+<p style="text-align: center;"><em>It’s getting nice outside, and spring is in the air! Here’s what to expect from our 2020 spring market.</em></p>
 
 Historically, spring has been a super hot market, but will that ring true for 2020? Let’s look back at the last three months:&nbsp;
 
