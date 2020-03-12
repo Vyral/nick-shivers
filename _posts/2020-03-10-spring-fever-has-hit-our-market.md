@@ -37,6 +37,6 @@ In 2019, we saw properties staying on the market longer, meaning 2020 sellers do
 
 **Interest rates are unbelievably low at 3.5%, even 3.3%—cheap money.** Here’s my spring prediction: The market will stay on fire. Buyers will have to get creative by exploring off-market properties.&nbsp;
 
-The real question for 2020 revolves around Q4. What’s going to happen with the election? Traditionally, general elections slow things down just a tad. Overall, I don’t foresee interest rates rising, nor do I think the market will really slow down that much, and the Portland Metro area will reap higher appreciation than in 2019 (not double digits quite yet, but probably around 5%).&nbsp;
+The real question for 2020 revolves around Q4. What’s going to happen with the election? Traditionally, general elections slow things down just a tad. Overall, I don’t foresee interest rates rising, nor do I think the market will slow down that much, and the Portland Metro area will reap higher appreciation than in 2019 (not double digits quite yet, but probably around 5%).&nbsp;
 
-If you have additional questions about the information covered in today’s message, or you’re interested in buying or selling a home, feel free to call or email me. I would love to speak with you.
+If you have additional questions about the information covered in today’s message or you’re interested in buying or selling a home, feel free to call or email me. I would love to speak with you.
