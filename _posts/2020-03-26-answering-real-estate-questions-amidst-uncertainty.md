@@ -20,7 +20,7 @@ youtube_code: GBPT6_yxLHQ
 
 {% include youtube.html %}
 
-I’ve been hearing a lot of questions lately about how this pandemic is affecting real estate and the way business is done. Here are my answers to some of the most common ones.
+<p style="text-align: center;"><em>I’ve been hearing a lot of questions lately about how this pandemic is affecting real estate and the way business is done. Here are my answers to some of the most common ones.</em></p>
 
 We are in an unprecedented time and there is a lot of fear and uncertainty out there. Over the last 15 years, I’ve had the opportunity to spend a lot of time in third-world countries where many people don’t necessarily know if they’re going to eat tomorrow.&nbsp;
 
