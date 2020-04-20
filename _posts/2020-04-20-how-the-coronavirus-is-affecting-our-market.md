@@ -17,7 +17,7 @@ youtube_code: d4fpzd8q0Mg
 
 {% include youtube.html %}
 
-How is the coronavirus affecting our market? Here are the latest stats.
+<p style="text-align: center;"><em>How is the coronavirus affecting our market? Here are the latest stats.</em></p>
 
 We’re still in the thick of the coronavirus pandemic, but what does that mean for our real estate market now that we’re already halfway through April—traditionally one of the busiest times of the year? Today I’ll share the latest year-over-year numbers and give a few predictions for when the shelter-in-place ordinances are lifted.
 
