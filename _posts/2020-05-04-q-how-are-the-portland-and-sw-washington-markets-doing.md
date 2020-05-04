@@ -20,7 +20,7 @@ youtube_code: fPkelP0_Y-c
 
 {% include youtube.html %}
 
-After a down month, our real estate market is starting to rebound here in Southwest Washington and the Portland Metro. Here’s what I’ve been seeing lately.
+<p style="text-align: center;"><em>After a down month, our real estate market is starting to rebound here in Southwest Washington and the Portland Metro. Here’s what I’ve been seeing lately.</em></p>
 
 The numbers are in for April in Portland and Southwest Washington—let’s quickly go through them today. Although a lot of the country is very similar right now, real estate is hyperlocal, and things are a little bit different in our area.
 
