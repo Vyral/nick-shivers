@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Q: How Are the Portland and SW Washington Markets Doing?'
+title: 'How Are the Portland Metro and SW Washington Markets Doing?'
 date: 2020-05-04 18:05:47
 tags:
   - Market Update
