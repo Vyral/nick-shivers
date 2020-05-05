@@ -24,9 +24,9 @@ youtube_code: fPkelP0_Y-c
 
 The numbers are in for April in Portland and Southwest Washington—let’s quickly go through them today. Although a lot of the country is very similar right now, real estate is hyperlocal, and things are a little bit different in our area.
 
-**Let’s start in Southwest Washington. In April, our number of listings taken was down 45%, pending sales were down 26.5%, and closed sales dropped by 25.9%.&nbsp;**
+**Let’s start in Southwest Washington. In April, our number of listings taken was down 45%, pending sales were down 26.5%, and closed sales dropped by 25.9%.**
 
-**In the Portland Metro, listings taken were down 37%, pending sales were down 30%, and closed sales dropped 20%. **
+**In the Portland Metro, listings taken were down 37%, pending sales were down 30%, and closed sales dropped 20%.**
 
 {% include pullquote.html %}
 
