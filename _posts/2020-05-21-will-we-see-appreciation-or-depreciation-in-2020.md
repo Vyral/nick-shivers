@@ -17,7 +17,7 @@ youtube_code: S6skONlTCmE
 
 {% include youtube.html %}
 
-Our current situation isn’t ideal, but might home values increase anyway?
+<p style="text-align: center;"><em>Our current situation isn’t ideal, but might home values increase anyway?</em></p>
 
 To determine whether our market is going to appreciate or depreciate during this interesting year, we need to first look at some numbers.
 
