@@ -33,6 +33,6 @@ In Southwest Washington, inventory is down by 30% overall while pending sales ar
 
 As you can see, the luxury market is getting smacked, but the good news is that activity has been improving dramatically in the last few weeks. Listing inventory has stayed significantly low and I believe we will see a tiny bit of appreciation this year in the market under $800,000 and a tiny bit of depreciation in the luxury market.
 
-**I don’t think we’re headed for another recession for a few reasons.** One is that 70% of area homeowners have equity right now. Also, 90% of the unemployment that is happening is temporary and once the shelter in place is lifted, we’ll start to see things improve.
+**I don’t think we’re headed for another recession for a few reasons.** One is that 70% of area homeowners have equity right now. Also, 90% of the unemployment that is happening is temporary and once the shelter-in-place order is lifted, we’ll start to see things improve.
 
 If you have any questions for me, don’t hesitate to reach out via phone or email. I look forward to hearing from you.
