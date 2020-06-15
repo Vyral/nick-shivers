@@ -18,7 +18,7 @@ youtube_code: pGArAf202BU
 
 {% include youtube.html %}
 
-Though we are in the midst of a recession, a housing crash isn’t on the horizon.
+<p style="text-align: center;"><em>Though we are in the midst of a recession, a housing crash isn’t on the horizon.</em></p>
 
 The National Bureau of Economic Resources recently stated that the country is in a recession.
 
