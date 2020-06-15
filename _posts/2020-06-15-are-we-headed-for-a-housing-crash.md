@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Are We Headed for a Housing Crash?
+title: Economic Recession vs. Housing Crash
 date: 2020-06-15 18:32:48
 tags:
   - Market Update
