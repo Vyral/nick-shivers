@@ -7,7 +7,8 @@ tags:
 excerpt: >-
   Though we are in the midst of a recession, a housing crash isn’t on the
   horizon.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Nick+Shivers/2020/%231+Real+Estate+Team+in+the+Portland+Metro+_+SW+Washington+Will+There+Be+a+Crash_.mp4
 pullquote: 'Though we are in a recession, we’re nowhere near a housing crash.'
 enclosure_type: video/mp4
 enclosure_time:
