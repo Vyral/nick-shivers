@@ -5,7 +5,8 @@ date: 2020-06-29 22:08:00
 tags:
   - Market Update
 excerpt: Will our market appreciate or depreciate this year?
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Nick+Shivers/2020/Will+We+See+Appreciation+or+Depreciation_.mp4
 pullquote: 'I believe we’ll finish out 2020 in a strong, appreciating market.'
 enclosure_type: video/mp4
 enclosure_time:
@@ -16,7 +17,7 @@ youtube_code: eq5lljXTaUY
 
 {% include youtube.html %}
 
-Will our market appreciate or depreciate this year?
+<p style="text-align: center;"><em>Will our market appreciate or depreciate this year?</em></p>
 
 Economists have come out with their predictions for the rest of 2020—will we see appreciation or depreciation this year?
 
