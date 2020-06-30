@@ -23,11 +23,11 @@ Economists have come out with their predictions for the rest of 2020—will we s
 
 Fannie Mae, Freddie Mac, Mortgage Bankers Association, and the National Association of Realtors all predict appreciation. Housing economic forecasts, Zillow, and certain hedge fund groups all predict depreciation.
 
-Those are the national predictions. Let’s take a look at our local market numbers. The southwest Washington area inventory levels are down anywhere from 20% to 30%, dropping to the double-digits. **That means sellers will have very little competition in our market.**
+Those are the national predictions. Let’s take a look at our local market numbers. The southwest Washington area inventory levels are down anywhere from 20% to 30%, dropping to the double digits. **That means sellers will have very little competition in our market.**
 
 {% include pullquote.html %}
 
-Year over year, pending sales are up significantly over the last five weeks If we go by everything that’s normal in business supply and demand, demand is sky-high and supply has stayed low, meaning that **we could face issues with there not being enough homes on the market given the current buyer demand.**
+Year over year, pending sales are up significantly over the last five weeks. If we go by everything normal in business supply and demand, demand is sky-high and supply has stayed low, meaning that **we could face issues with there not being enough homes on the market given the current buyer demand.**
 
 Now there is a caveat—in certain areas where protests have been occurring during this time of social unrest, there has been an influx of properties hitting the market. There, inventory levels aren’t a problem.&nbsp;
 
