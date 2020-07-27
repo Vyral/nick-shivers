@@ -19,7 +19,7 @@ youtube_code: 0Fn7ZtAA2U8
 
 {% include youtube.html %}
 
-Financial guru Suze Orman told people now isn’t the time to buy—here’s why she’s wrong.
+<p style="text-align: center;"><em>Financial guru Suze Orman told people now isn’t the time to buy—here’s why she’s wrong.</em></p>
 
 I recently got off the phone with my good friend Suze Orman, a financial guru you’ve probably heard of from TV and radio. She made a statement that I disagree with, and I’d like to tell you why.
 
