@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Q: Is Now a Good Time to Buy a House?'
+title: Is Now a Good Time to Buy a House?
 date: 2020-07-27 15:33:37
 tags:
   - Home Buyer Tips
