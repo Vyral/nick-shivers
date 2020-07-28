@@ -23,7 +23,7 @@ youtube_code: 0Fn7ZtAA2U8
 
 I recently got off the phone with my good friend Suze Orman, a financial guru you’ve probably heard of from TV and radio. She made a statement that I disagree with, and I’d like to tell you why.
 
-Suze said that she’s telling everyone not to buy a house right now until the pandemic is closer to being over with. From her point of view, this is the logical approach. Those who are on forbearance at the moment aren’t making their own payments, unemployment is high, and there’s a lot of social unrest in the nation.
+Suze said that she’s telling everyone not to buy a house right now until the pandemic is closer to being over. From her point of view, this is the logical approach. Those who are on forbearance at the moment aren’t making their own payments, unemployment is high, and there’s a lot of social unrest in the nation.
 
 **There are two reasons why I disagree with her assessment that we are headed for a slew of foreclosures because of these conditions:**
 
