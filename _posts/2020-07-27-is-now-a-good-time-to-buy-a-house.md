@@ -27,12 +27,12 @@ Suze said that she’s telling everyone not to buy a house right now until the p
 
 **There are two reasons why I disagree with her assessment that we are headed for a slew of foreclosures because of these conditions:**
 
-**1\. The C.A.R.E.S. Act**. This act states that you as a homeowner are entitled to a forbearance of up to six months, and there’s good potential for an additional six months on top of that. What isn’t commonly known is that (in a worst-case scenario) at the end of those 12 months, you have to pay all that money back. No one will be able to do that.
+**1\. The C.A.R.E.S. Act**. This act states that you as a homeowner are entitled to a forbearance of up to six months, and there’s the strong potential for an additional six months on top of that. What isn’t commonly known is that (in a worst-case scenario) at the end of those 12 months, you have to pay all that money back. No one will be able to do that.
 
 {% include pullquote.html %}
 
 I don’t think most lenders will do that, however; many have said they’ll add the amount owed to the end of the loan. Keep in mind that this will affect your credit and you probably won’t be able to refinance.
 
-**2\. Equity in your home**. Around 77% of all homeowners across America have at least 23.8% equity in their home; that’s a huge difference from back in 2008. And supposing you couldn’t make your payments—would you let the house go into foreclosure? No, you’d sell the house for the maximum amount of money. And you’d probably get multiple offers on that house, too, since inventory is historically low across the country and demand is very high. In the last two weeks, we have seen a 44% year-over-year increase in pending sales and all had multiple offers.
+**2\. Equity in your home**. Around 77% of all homeowners across America have at least 23.8% equity in their homes; that’s a huge difference from back in 2008. Suppose you couldn’t make your payments—would you let the house go into foreclosure? No, you’d sell the house for the maximum amount of money. You’d probably get multiple offers on that house, too, since inventory is historically low across the country and demand is very high. In the last two weeks, we have seen a 44% year-over-year increase in pending sales and all had multiple offers.
 
-In short, Suze Orman is wrong. If you have any questions about this topic or about the market in general, don’t hesitate to reach out to me. I’d love to hear from you.
+In short, Suze Orman is wrong. If you have any questions about this topic or the market in general, don’t hesitate to reach out to me. I’d love to hear from you.
