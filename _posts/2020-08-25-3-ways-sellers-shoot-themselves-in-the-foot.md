@@ -17,7 +17,7 @@ youtube_code: 8PEebKxmqYk
 
 {% include youtube.html %}
 
-Here are the biggest seller blunders I’m seeing in this scorching-hot market.
+<p style="text-align: center;"><em>Here are the biggest seller blunders I’m seeing in this scorching-hot market.</em></p>
 
 While there’s no denying that we’re in a strong seller’s market, sellers still need to be prudent when they hit the market. It’s not exactly the Wild West out there; basic principles of supply and demand haven’t gone anywhere, and the rules of financing still apply. As such, there are several things I see sellers doing that will cost them time and money needlessly.&nbsp;
 
