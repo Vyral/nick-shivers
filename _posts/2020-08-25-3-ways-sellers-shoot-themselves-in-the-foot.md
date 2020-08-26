@@ -25,7 +25,7 @@ While there’s no denying that we’re in a strong seller’s market, sellers s
 
 Let’s say a loan buyer comes in and gives you that sky-high price you’re looking for, which ties up the property. Unfortunately, unlike buyers, the bank doesn’t operate on emotions—it crunches numbers. The bank backing your buyer’s home will look at your property and coldly ask, “Why would we pay *this* much for *this* home? There’s nothing that has sold this high.” After your property has been tied up for 30 to 45 days, the bank says ‘not so fast,’ and the buyer backs out as a result. Congratulations—all you’ve done is waste time.&nbsp;
 
-Now let’s assume you’re selling against some competition. Even if your competitor was overpriced by as much as $25,000, your decision to then overprice by $50,000 only accomplishes one thing: sell your competitor’s home for them. They might as well write you a thank-you card\!&nbsp;
+Now let’s assume you’re selling against some competition. Even if your competitor was overpriced by as much as $25,000, your decision to then overprice by $50,000 only accomplishes one thing: selling your competitor’s home for them. They might as well write you a thank-you card\!&nbsp;
 
 Here’s a better strategy: Price it right out of the gate and focus on getting maximum exposure so you receive multiple offers. From there, you can employ various strategies to optimize your sale (e.g., waving the difference between the appraisal price and the purchase price by coming in with that money).
 
