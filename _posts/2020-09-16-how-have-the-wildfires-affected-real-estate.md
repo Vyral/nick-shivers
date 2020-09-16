@@ -19,7 +19,7 @@ youtube_code: RIMP4fwioFc
 
 {% include youtube.html %}
 
-Here’s how the wildfires have impacted real estate in our region.
+<p style="text-align: center;"><em>Here’s how the wildfires have impacted real estate in our region.</em></p>
 
 How have the recent wildfires affected the real estate industry in our region?&nbsp;
 
