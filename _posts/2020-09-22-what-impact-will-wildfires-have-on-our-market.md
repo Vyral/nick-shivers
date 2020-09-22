@@ -17,7 +17,7 @@ youtube_code: wsG78_1uWbg
 
 {% include youtube.html %}
 
-Here’s the impact that the wildfires have had on our market.
+<p style="text-align: center;"><em>Here’s the impact that the wildfires have had on our market.</em></p>
 
 First, I want to send my thoughts and prayers to everyone who has been affected by the fires. It seems like we’re past the worst of it for now, but it was tough there for a while and a lot of people are still recovering.
 
