@@ -23,11 +23,11 @@ First, I want to send my thoughts and prayers to everyone who has been affected 
 
 The real estate question of the month then is obviously, “How will these fires affect the market in Oregon and Southwest Washington?”&nbsp;
 
-**When the fires started to spread, there were moratoriums put on homeowner insurance policies.** This held up insurance claims and funding in Clackamas County and Marion County. It slowed down closings and created a bottleneck that will last for around another week or so.
+**When the fires started to spread, there were moratoriums put on homeowner insurance policies.** This held up insurance claims and funding in Clackamas and Marion Counties. It also slowed down closings and created a bottleneck that will last for around another week or so.
 
 {% include pullquote.html %}
 
-Now, I have to share some important stats from last week that everyone should hear. In 2019, there were 237 active listings that went live. That number was 4.3% lower in 2020. **Pending sales are up 38% in Southwest Washington week over week and year over year.** We’re seeing a lot of people relocating to the Battleground/Washougal area for more space.
+Now, I have to share some important stats that everyone should hear. In 2019, there were 237 active listings that went live. That number was 4.3% lower in 2020. **Pending sales are up 38% in Southwest Washington week over week and year over year.** We’re seeing a lot of people relocating to the Battleground/Washougal area for more space.
 
 In the Portland Metro area, active listings are down 21% from last year. **This is about the lowest inventory we’ve seen in history.** Pending sales are up just 10%, which I think will go up further now that the fires seem to be contained.
 
