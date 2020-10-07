@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'The Good, the Bad, the Ugly, and the Future of Real Estate'
+title: How Has Our Market Performed in 2020?
 date: 2020-10-07 00:00:00
 tags:
   - Home Buyer Tips
