@@ -10,7 +10,8 @@ tags:
 excerpt: >-
   Today, let’s take a look at the past, present, and future of our real estate
   market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Nick+Shivers/Nick+Shivers+The+Good%2C+Bad%2C+Ugly%2C+and+Future+of+Real+Estate.mp4
 pullquote: >-
   I think we’ll be on par with last year unless we see even more sales than Q4
   of 2019.
@@ -18,7 +19,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image: /uploads/10-6---nick-shivers---yt.jpg
-youtube_code: 'https://youtu.be/YrPeLDkPk9A'
+youtube_code: YrPeLDkPk9A
 ---
 
 {% include youtube.html %}
