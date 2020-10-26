@@ -21,7 +21,7 @@ youtube_code: qZ_WGOLwbV0
 
 {% include youtube.html %}
 
-Here’s what consumers, experts, and cold, hard data have to say about our market.
+<p style="text-align: center;"><em>Here’s what consumers, experts, and cold, hard data have to say about our market.</em></p>
 
 If you’ve been wondering whether it’s in your best interest to sell now or wait until the 2021 spring “selling season,” let’s take a look at the data today. The consumer home price index report just came out, and it bears plenty of good news. There are six questions that consumers get asked for this report:&nbsp;
 
