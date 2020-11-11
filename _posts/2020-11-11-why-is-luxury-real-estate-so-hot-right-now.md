@@ -16,7 +16,7 @@ youtube_code: zRPQoEIRd9g
 
 {% include youtube.html %}
 
-Here’s the story of luxury real estate’s epic 2020 comeback.
+<p style="text-align: center;"><em>Here’s the story of luxury real estate’s epic 2020 comeback.<em></p>
 
 We’re now entering the winter months, and it’s cold outside—is luxury real estate just as cold? Absolutely not\! In fact, it’s the exact opposite. To get a clearer picture of how our PDX luxury market has fared, let’s back things up to March. (Let’s be honest, 2020 really only has two parts: pre- and post-COVID).
 
