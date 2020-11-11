@@ -20,8 +20,6 @@ youtube_code: zRPQoEIRd9g
 
 We’re now entering the winter months, and it’s cold outside—is luxury real estate just as cold? Absolutely not\! In fact, it’s the exact opposite. To get a clearer picture of how our PDX luxury market has fared, let’s back things up to March. (Let’s be honest, 2020 really only has two parts: pre- and post-COVID).
 
-&nbsp;
-
 For Marion, Clark, and the Tri-County areas, we’ll define luxury real estate as $1 million and up. **Right now in November, the number of listed luxury properties is up 11% from March**, when COVID hit and everything, including luxury real estate, came to a grinding halt. Thankfully, despite my own worst fears, the devastation to the luxury market only lasted about three weeks or so. In that time, however, the “jumbo” products (a jumbo loan is $510,000 or more) practically vanished. For a while, there weren’t any jumbo products available under 5%.&nbsp;
 
 Since spring, however, luxury real estate came back with a vengeance. Not only have we seen significantly more listings as of late, but we can also happily report that **closed sales are up 20%**. Furthermore, in just the last six to seven weeks, we saw 40% more pendings year over year. As you can surmise from these numbers, the traditional seasonal slowdown in real estate doesn’t apply to 2020. So, why is the real estate market—and the luxury market especially—so hot right now?
