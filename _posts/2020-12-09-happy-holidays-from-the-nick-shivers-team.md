@@ -17,7 +17,7 @@ youtube_code: UCj0t90ZK28
 
 {% include youtube.html %}
 
-Here’s an overview of our market and the outcomes of our charitable acts.
+<p style="text-align: center;"><em>Here’s an overview of our market and the outcomes of our charitable acts.</em></p>
 
 It’s my last blog post of the year\! 2020 is almost out the door—thank goodness\! This year has been a challenge: fires, a pandemic, riots, a long election process, and more. We’ve seen everything we never expected to this year. Nevertheless, we made it through. **Our thoughts and prayers go out to all of you because everyone has been affected this year.&nbsp;**
 
