@@ -17,7 +17,7 @@ youtube_code: U6uXHKoqjNg
 
 {% include youtube.html %}
 
-This is why I don’t believe we’ll see a housing crash in 2021.
+<p style="text-align: center;"><em>This is why I don’t believe we’ll see a housing crash in 2021.</em></p>
 
 Are we primed for a housing crash in 2021?&nbsp;
 
