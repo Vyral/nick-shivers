@@ -5,7 +5,8 @@ date: 2021-01-26 16:18:41
 tags:
   - Home Seller Tips
 excerpt: Don’t make these three mistakes when you sell your home.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Nick+Shivers/2021/Nick+Shivers+Mistakes+Sellers+Make.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
