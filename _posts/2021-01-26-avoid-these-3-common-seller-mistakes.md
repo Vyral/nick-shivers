@@ -16,7 +16,7 @@ youtube_code: ahyG1Axx3HQ
 
 {% include youtube.html %}
 
-Don’t make these three mistakes when you sell your home.
+<p style="text-align: center;"><em>Don’t make these three mistakes when you sell your home.</em></p>
 
 Even in today’s extremely hot seller’s market, home sellers still can make certain mistakes that could jeopardize their transactions. Today I’ll share the top three mistakes that sellers need to avoid if they want to come out on top:
 
