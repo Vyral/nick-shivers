@@ -17,7 +17,7 @@ youtube_code: f1MD5kaQids
 
 {% include youtube.html %}
 
-Our market is charging through 2021 and racking up historic numbers.
+<p style="text-align: center;"><em>Our market is charging through 2021 and racking up historic numbers.</em></p>
 
 With one month already in the books for 2021, how is our market doing? The answer: hotter than ever, and we have the historic data to prove it. Traditionally, January is one of the slowest months for our area market. **This year, you can go ahead and forget about “traditional”—January is the new spring.**&nbsp;
 
