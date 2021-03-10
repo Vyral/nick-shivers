@@ -5,7 +5,8 @@ date: 2021-03-10 16:41:00
 tags:
   - Market Update
 excerpt: Here’s why Zillow instant offers don’t mix well with our red-hot market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Nick+Shivers/2021/Why+Zillow+Instant+Offers+Are+a+Bad+Idea+Right+Now.mp4
 pullquote: Multiple offers make for historic price appreciation.
 enclosure_type: video/mp4
 enclosure_time:
@@ -15,7 +16,7 @@ youtube_code: fhJSfjdkMZQ
 ---
 {% include youtube.html %}
 
-Here’s why Zillow instant offers don’t mix well with our red-hot market.
+<p style="text-align: center;"><em>Here’s why Zillow instant offers don’t mix well with our red-hot market.</em></p>
 
 Sellers, this is your fair warning: Getting a Zillow instant offer on your home is a bad idea in today’s fast-paced market. Now, I know what you’re thinking: “Nick, you were the first person in our area to introduce an instant offer platform. Why the sudden change of tune?”&nbsp;
 
