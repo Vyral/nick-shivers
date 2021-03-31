@@ -1,11 +1,12 @@
 ---
 layout: post
 title: First Quarter Real Estate Recap
-date: 2021-03-31 15:09:31
+date: 2021-03-31 15:09:00
 tags:
   - Market Update
 excerpt: Here’s a look back on the first quarter stats of this year.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Nick+Shivers/2021/%231+Real+Estate+Team+in+the+Portland+Metro+_+SW+Washington+First+Quarter+Real+Estate+Recap.mp4
 pullquote: We expect things to get even hotter as we move into the second quarter.
 enclosure_type: video/mp4
 enclosure_time:
