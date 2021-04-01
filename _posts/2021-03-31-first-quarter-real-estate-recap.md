@@ -42,10 +42,10 @@ There’s no doubt about it—the market is crazy right now\! To help you unders
 * Closed sales: up by 18%
 * Average sales price: $480,000 (up by 15.3% over last year)
 
-Will this market activity slow down anytime soon? Nothing in the forecast suggests that it’ll slow down anytime soon, especially in the second and third quarters. There’s only one caveat: There are currently a bunch of properties in forbearance, the moratorium for which is supposed to end in June. Since the unemployment rate is still high in certain places, we may see an influx of inventory come June.
+Will this market activity slow down anytime soon? Nothing in the forecast suggests that it’ll slow down soon, especially in the second and third quarters. There’s only one caveat: There are currently a bunch of properties in forbearance, the moratorium for which is supposed to end in June. **Since the unemployment rate is still high in certain places, we may see an influx of inventory come June.**
 
 {% include pullquote.html %}
 
 Let’s take a look at the national picture. The Wells Fargo Home Builder’s Association released their index that ranks what the market is doing and what it’s predicted to do. Nationwide, we’re at an 88 on a scale of one to 100; last year, the nation was at 72. In short, everything continues to look better, with the exception of the condo market in the Portland metro, which currently has less than one month of inventory. Many people are moving out to the suburbs and fewer people are relocating to the downtown area for work.
 
-If you have any questions about the market or need any assistance with real estate, don’t hesitate to reach out to us. We’d love to hear from you.
+If you have any questions about the market or need assistance with real estate, don’t hesitate to reach out to us. We’d love to hear from you.
