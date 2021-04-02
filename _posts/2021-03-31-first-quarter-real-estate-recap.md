@@ -20,9 +20,9 @@ youtube_code: vK-u8I5-aeo
 
 There’s no doubt about it—the market is crazy right now\! To help you understand, think about the first quarter stats from last year. In the first quarter of 2020, we closed roughly $27 million by the end of March. Currently, we’ve closed just under $50 million. Here’s a more specific look at each of our market areas and how they’ve changed since last year:
 
-**Salem County:**
+**Marion County:**
 
-* Active listings: up by 18%
+* Active listings: down by 18%
 * Pending sales: down by 11%
 * Closed sales: down by 10%
 * Days on market: under 45 days
@@ -46,6 +46,6 @@ Will this market activity slow down anytime soon? Nothing in the forecast sugges
 
 {% include pullquote.html %}
 
-Let’s take a look at the national picture. The Wells Fargo Home Builder’s Association released their index that ranks what the market is doing and what it’s predicted to do. Nationwide, we’re at an 88 on a scale of one to 100; last year, the nation was at 72. In short, everything continues to look better, with the exception of the condo market in the Portland metro, which currently has less than one month of inventory. Many people are moving out to the suburbs and fewer people are relocating to the downtown area for work.
+Let’s take a look at the national picture. The Wells Fargo Housing Index released its monthly report that gives a barometer on the housing market and what it’s predicted to do. Nationwide, we’re at an 82 on a scale of one to 100; last year, the nation was at 72. In short, everything continues to look better, with the exception of the condo market in the Portland metro, which currently has over a year of inventory. Many people are moving out to the suburbs and fewer people are relocating to the downtown area for work.
 
 If you have any questions about the market or need assistance with real estate, don’t hesitate to reach out to us. We’d love to hear from you.
