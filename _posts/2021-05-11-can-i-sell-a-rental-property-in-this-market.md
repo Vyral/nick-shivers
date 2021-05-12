@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Can I Sell a Rental Property in This Market?
-date: 2021-05-11 16:52:03
+date: 2021-05-11 16:52:00
 tags:
   - Home Seller Tips
 excerpt: Here’s how to sell rental properties in both Portland and Oregon.
@@ -22,14 +22,14 @@ Today we have a special guest, Doug Moe, who’s the brains behind 24/7 Properti
 
 **Feel free to watch the full message above, or use these timestamps that will direct you to various points in the video.**
 
-0:05: Introduction to today’s topic
+0:05— Introduction to today’s topic
 
-1:35: What happens if you own five or more rental properties
+1:35— What happens if you own five or more rental properties
 
-2:55: What happens if you only own one rental property
+2:55— What happens if you only own one rental property
 
-4:35: The differences between the state of Oregon and Portland
+4:35— The differences between the state of Oregon and Portland
 
-6:40: Wrapping up today’s topic
+6:40— Wrapping up today’s topic
 
 If you have further questions about selling a rental property in today’s market or concerning real estate in general, call or email me. I would love to be your real estate resource.
