@@ -24,9 +24,9 @@ Today we have a special guest, Doug Moe, who’s the brains behind 24/7 Properti
 
 0:05— Introduction to today’s topic
 
-1:35— What happens if you own five or more rental properties
+1:35— What happens if you own five or more rental properties?
 
-2:55— What happens if you only own one rental property
+2:55— What happens if you only own one rental property?
 
 4:35— The differences between the state of Oregon and Portland
 
