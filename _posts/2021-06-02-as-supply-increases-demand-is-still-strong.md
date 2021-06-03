@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'As Supply Increases, Demand Is Still Strong'
-date: 2021-06-02 12:22:37
+date: 2021-06-02 12:22:00
 tags:
   - Market Update
 excerpt: The slow move out of the seller’s market isn’t all doom and gloom.
@@ -18,7 +18,7 @@ youtube_code: UmHHIG1BOQg
 
 {% include excerpt.html %}
 
-People are saying that rising inventory is doom and gloom for the real estate market. Around 19% more homes have been put on the market in 2021 compared to 2020, and we're almost at the end of May. If you're thinking values are going to go down, you're mistaken. We have to look at two more data points to make sense of all this:
+People are saying that rising inventory is doom and gloom for the real estate market. Around 19% more homes have been put on the market in 2021 compared to 2020, and we're just at the start of June. If you're thinking values are going to go down, you're mistaken. We have to look at two more data points to make sense of all this:
 
 **1\. Pending sales.** Whether you look three weeks ago or today, pending sales are up almost 40%. Supply continues to go up, but the problem is that demand is still outpacing the market.
 
