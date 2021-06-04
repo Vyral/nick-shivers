@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'As Supply Increases, Demand Is Still Strong'
-date: 2021-06-02 12:22:00
+date: 2021-06-04 10:00:00
 tags:
   - Market Update
 excerpt: The slow move out of the seller’s market isn’t all doom and gloom.
