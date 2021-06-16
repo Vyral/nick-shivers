@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sellers Are Feeling the Effects of Buyer Fatigue
-date: 2021-06-16 12:34:37
+date: 2021-06-16 08:00:00
 tags:
   - Home Seller Tips
 excerpt: Buyer fatigue and buyer’s agent fatigue are affecting sellers.
