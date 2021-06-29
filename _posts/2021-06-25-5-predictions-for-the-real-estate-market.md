@@ -36,4 +36,4 @@ Here are my five predictions for the rest of 2021 and part of 2022 in the real e
 
 **5\. We'll see more sales.** With more inventory, that buyer haze is going away, now that they're able to pick up some properties without having to bid $150,000 over list price.
 
-If you have any questions, please reach out to me. I’m here to help you out. Have a great day.
+If you have any questions, please reach out to me. I’m here to help you. Have a great day.
