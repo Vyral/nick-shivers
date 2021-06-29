@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 5 Predictions for the Real Estate Market
-date: 2021-06-25 21:11:09
+date: 2021-06-29 09:11:00
 tags:
   - Market Update
 excerpt: Here are my five predictions for the rest of 2021 and early 2022.
