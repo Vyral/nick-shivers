@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 5 Predictions for the Real Estate Market
-date: 2021-06-29 09:11:00
+date: 2021-07-02 09:11:00
 tags:
   - Market Update
 excerpt: Here are my five predictions for the rest of 2021 and early 2022.
@@ -30,7 +30,7 @@ Here are my five predictions for the rest of 2021 and part of 2022 in the real e
 
 **2\. Interest rates are going to go up.**
 
-**3\. Landlords will start listing their properties.** With the forbearance moratorium going away and some people still not making the money that they were before, they're going to list their houses.&nbsp;
+**3\. Landlords will start listing their properties.** With the forbearance moratorium going away and some people still not making the money that they were before, they're going to list their houses.
 
 **4\. We'll see a peak in pricing.** This is due to the rising interest rates and will happen in late 2021 or early 2022.
 
