@@ -5,7 +5,8 @@ date: 2021-07-15 09:00:00
 tags:
   - Market Update
 excerpt: I’m comparing our June market numbers to those from the last three years.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Nick+Shivers/2021/Our+Latest+Market+Data+From+June.mp4
 pullquote: Our market is strong and staying strong.
 enclosure_type: video/mp4
 enclosure_time:
