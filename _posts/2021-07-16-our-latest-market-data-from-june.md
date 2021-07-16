@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Our Latest Market Data From June
-date: 2021-07-15 09:00:00
+date: 2021-07-16 09:00:00
 tags:
   - Market Update
 excerpt: I’m comparing our June market numbers to those from the last three years.
