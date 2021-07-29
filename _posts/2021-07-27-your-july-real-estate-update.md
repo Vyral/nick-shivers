@@ -22,7 +22,7 @@ Are things changing in our real estate market? The answer is yes, **things are c
 
 In July in the Portland metro and Marion County, active listings have decreased 7%, and for the first time in 12 months, we have fewer pending sales year over year, down about 1%. Closed sales have fallen about 7%. In Clark County, active listings have declined 7% as well, pending sales have dropped about 5.5%, and closed sales have shrunk in the double digits. Things are slowing in our market, but that’s not a bad thing.&nbsp;
 
-We’ve seen exceedingly low inventory for a long time, and **now buyers have a little more breathing room.** Buyer fatigue is still around, and people are just sitting on the sidelines waiting for the right opportunity. Now they have a glimmer of hope, and we may see more of them get into the market. We have excellent interest rates, they just lowered again, and are now in the low 3% range.
+We’ve seen exceedingly low inventory for a long time, and **now buyers have a little more breathing room.** Buyer fatigue is still around, and people are just sitting on the sidelines waiting for the right opportunity. Now, they have a glimmer of hope, and we may see more of them get into the market. We have excellent interest rates, they just lowered again, and are now in the low 3% range.
 
 {% include pullquote.html %}
 
