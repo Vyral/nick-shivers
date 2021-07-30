@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Your July Real Estate Update
-date: 2021-07-29 09:18:00
+date: 2021-07-30 10:00:00
 tags:
   - Market Update
 excerpt: Here’s how our market is changing, but it’s not a bad thing.
