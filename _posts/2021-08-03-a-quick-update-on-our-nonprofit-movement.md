@@ -19,7 +19,7 @@ youtube_code: XTwgv-TvNII
 
 {% include excerpt.html %}
 
-Today’s topic is my favorite topic: Our nonprofit movement, [sellahomesaveachild.org.](https://www.sellahomesaveachild.org/){: target="_blank" rel="noopener"}&nbsp;**Sell a Home, Save a Child is a collection of real estate professionals around the country that give a portion of their profits back to the movement to help kids who need it.** I have a couple of cool updates to share with you.
+Today’s topic is my favorite topic: Our nonprofit movement, <p style="color: #E31D1A;">[sellahomesaveachild.org.](https://www.sellahomesaveachild.org/){: target="_blank" rel="noopener"}&nbsp;</p>**Sell a Home, Save a Child is a collection of real estate professionals around the country that give a portion of their profits back to the movement to help kids who need it.** I have a couple of cool updates to share with you.
 
 First, we were recently able to hit the $2 million mark in money raised for the cause. Second, we have more members than we have ever had in the history of our movement.
 
