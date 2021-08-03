@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Quick Update on Our Nonprofit Movement
-date: 2021-07-30 14:20:13
+date: 2021-08-03 14:20:00
 tags:
   - Community
   - Home Seller Tips
@@ -27,7 +27,7 @@ First, we were recently able to hit the $2 million mark in money raised for the 
 
 {% include pullquote.html %}
 
-We have a few big events coming up. **On August 21, we have our Over the Edge event.** We hope to see you out there. We have another give event on August 18 with Brent Gove and Anthony Robbins in Dallas, Texas that we’re very excited about. Finally, Eric Hatch has his summit coming up.
+We have a few big events coming up. **On August 21, we have our Over the Edge event.** We hope to see you out there. We have another huge event on August 18 with Brent Gove and Anthony Robbins in Dallas, Texas that we’re very excited about. Finally, Eric Hatch has his summit coming up.
 
 Now, that $2 million doesn’t even include all of our friends, family, and colleagues who have also donated, participated, and sponsored children. From the bottom of our hearts: Thank you\!
 
