@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A Quick Update on Our Nonprofit Movement
-date: 2021-08-03 14:20:00
+date: 2021-08-12 14:20:00
 tags:
   - Community
   - Home Seller Tips
