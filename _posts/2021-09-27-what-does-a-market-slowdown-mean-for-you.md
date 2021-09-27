@@ -26,7 +26,7 @@ The first thing I like to look at is always **showing activity.** If you don’t
 
 This is a pretty normal trend as we head into the fall market. For example, the national average for homes receiving multiple offers went from **71% to 59%**. Our market is a little hotter, and 73% of local properties are still seeing multiple offers. This is still lower than the 90% rates we were seeing earlier this year.&nbsp;
 
-Another stat to look at is year-over-year expected home sales. In 2021, we are predicted to sell 3.3% more homes than we did the previous year. In 2022, we are predicted to sell 2% less. Why are home sales expected to decrease next year? It comes down to our **low inventory and affordability issues. **
+Another stat to look at is year-over-year expected home sales. In 2021, we are predicted to sell 3.3% more homes than we did the previous year. In 2022, we are predicted to sell 2% less. Why are home sales expected to decrease next year? It comes down to our **low inventory and affordability issues.**
 
 {% include pullquote.html %}
 
