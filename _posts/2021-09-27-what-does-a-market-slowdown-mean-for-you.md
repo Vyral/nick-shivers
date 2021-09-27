@@ -20,9 +20,9 @@ youtube_code: L-BoPTlwjkw
 
 {% include excerpt.html %}
 
-Is our real estate market slowing down? Today, I want to review the numbers for Metro Portland and see what they tell us about the future of our market.&nbsp;
+Is our real estate market slowing down? Today I want to review the numbers for Metro Portland and see what they tell us about the future of our market.&nbsp;
 
-The first thing I like to look at is always **showing activity.** If you don’t have high showing activity, you won’t get as many offers, and the price won’t increase. For the entire west coast, August was the first month showings decreased when compared to last year. This doesn’t mean things are going to crash all of a sudden. If we compare the pace of the market to temperature, we went from a scorching 110 degrees fahrenheit to a still-hot 90.&nbsp;
+The first thing I like to look at is always **showing activity.** If you don’t have high showing activity, you won’t get as many offers, and the price won’t increase. For the entire west coast, August was the first month showings decreased when compared to last year. This doesn’t mean things are going to crash all of a sudden. If we compare the pace of the market to temperature, we went from a scorching 110 degrees Fahrenheit to a still-hot 90.&nbsp;
 
 This is a pretty normal trend as we head into the fall market. For example, the national average for homes receiving multiple offers went from **71% to 59%**. Our market is a little hotter, and 73% of local properties are still seeing multiple offers. This is still lower than the 90% rates we were seeing earlier this year.&nbsp;
 
@@ -30,6 +30,6 @@ Another stat to look at is year-over-year expected home sales. In 2021, we are p
 
 {% include pullquote.html %}
 
-Traditionally, we see less activity as we head into the fourth quarter. However, this doesn’t mean the market will completely cool off. The days of double-digit appreciation may be over, but I still expect home values to rise.&nbsp;
+Traditionally, we see less activity as we head into the fourth quarter. However, this doesn’t mean the market will cool completely. The days of double-digit appreciation may be over, but I still expect home values to rise.&nbsp;
 
 If you’re a seller, don’t be scared by the seasonal change; it’s still a great time to sell a home. If you have any questions about real estate, please contact me via phone or email. I am always willing to help.
