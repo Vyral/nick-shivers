@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Does A Market Slowdown Mean For You?
-date: 2021-09-27 14:59:51
+date: 2021-09-28 08:33:00
 tags:
   - Market Update
 excerpt: Here’s what the latest numbers have to say about our local market.
@@ -24,7 +24,7 @@ Is our real estate market slowing down? Today I want to review the numbers for M
 
 The first thing I like to look at is always **showing activity.** If you don’t have high showing activity, you won’t get as many offers, and the price won’t increase. For the entire west coast, August was the first month showings decreased when compared to last year. This doesn’t mean things are going to crash all of a sudden. If we compare the pace of the market to temperature, we went from a scorching 110 degrees Fahrenheit to a still-hot 90.&nbsp;
 
-This is a pretty normal trend as we head into the fall market. For example, the national average for homes receiving multiple offers went from **71% to 59%**. Our market is a little hotter, and 73% of local properties are still seeing multiple offers. This is still lower than the 90% rates we were seeing earlier this year.&nbsp;
+This is a pretty normal trend as we head into the fall market. For example, the national average for homes receiving multiple offers went from **71% to 59%**. Our market is a little hotter, and 73% of our listings are still seeing multiple offers. This is still lower than the 90% rates we were seeing earlier this year.&nbsp;
 
 Another stat to look at is year-over-year expected home sales. In 2021, we are predicted to sell 3.3% more homes than we did the previous year. In 2022, we are predicted to sell 2% less. Why are home sales expected to decrease next year? It comes down to our **low inventory and affordability issues.**
 
