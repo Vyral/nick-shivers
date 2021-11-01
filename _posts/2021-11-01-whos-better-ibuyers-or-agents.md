@@ -1,7 +1,7 @@
 ---
 layout: post
-title: 'Who’s Better: iBuyers or Agents?'
-date: 2021-10-29 15:45:06
+title: 'Who’s Better: Zillow or Agents?'
+date: 2021-11-01 13:00:00
 tags:
     - Home Seller Tips
 excerpt: Here’s why it’s still important to hire an agent in the age of iBuyers.
