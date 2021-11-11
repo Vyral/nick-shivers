@@ -4,7 +4,7 @@ title: What’s Going on in Portland Real Estate?
 date: 2021-11-11 14:22:00
 tags:
     - Market Update
-excerpt: Here’s everything you need to know about Portland’s real estate market.
+excerpt: Here’s what you need to know about Portland’s real estate market.
 enclosure: >-
     https://vyralmarketing.s3.amazonaws.com/Nick+Shivers/2021/What%E2%80%99s+Going+On+In+Portland+Real+Estate_.mp4
 pullquote:
@@ -22,7 +22,7 @@ Winter is coming\! Typically, that means the real estate market will experience 
 
 **While we are experiencing a bit of a slowdown, things are still crazy when compared to 2019.** To illustrate my point, let’s see what the numbers have to say:
 
-* Active listings were up in September. They increased 15.2% in Portland, and 8% in the Washington market.&nbsp;
+* Active listings were up in September. They increased 15.2% in Portland and 8% in the Washington market.&nbsp;
 * Closings were down 2.6% in Portland and 11.8% in Washington.&nbsp;
 * As for October, active listing decreased 14%, and closings were down 4.7%.&nbsp;
 * Meanwhile, homes have appreciated about 16% in the Portland metro year over year.&nbsp;
