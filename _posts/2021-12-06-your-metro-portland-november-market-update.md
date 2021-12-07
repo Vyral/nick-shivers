@@ -5,14 +5,13 @@ date: 2021-12-06 18:50:59
 tags:
   - Market Update
 excerpt: Here’s what you need to know about the state of Portland’s market.
-enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Nick+Shivers/2021/Your+Metro+Portland+November+Market+Update.mp4
+enclosure:
 pullquote: If you’re a seller, I recommend you strike while the iron is hot.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: DVU1haiqvNY
+youtube_code: DptgFpWShXI
 ---
 {% include youtube.html %}
 
