@@ -4,7 +4,7 @@ title: Why the 2022 Housing Market Will Be Hot
 date: 2022-01-21 15:55:42
 tags:
   - Market Update
-excerpt: Here’s why the 2022 housing market will be red-hot.
+excerpt: Here’s why we think the 2022 housing market will be red-hot.
 enclosure:
 pullquote: I don’t see this market slowing down in the foreseeable future.
 enclosure_type: video/mp4
@@ -25,10 +25,10 @@ Even though the first quarter of 2022 has been cold, rainy, and snowy so far, we
 
 {% include pullquote.html %}
 
-**3\. Interest rates.** Rates have increased, and many people think that that will kill the real estate market. In reality, it won’t; historically speaking, increased rates get people who are on the fence back in the market. We’ve actually seen that in our area—the market during the early winter months last year was still on fire.
+**3\. Interest rates.** Rates have increased, and many people think that will kill the real estate market. In reality, it won’t; historically speaking, increased rates get people who are on the fence back in the market. We’ve actually seen that in our area—the market during the early winter months last year was still on fire.
 
 **4\. Inflation**. Whenever we’re undergoing inflation, like we are now, people tend to start buying hard assets like real estate. I don’t see this market slowing down in the foreseeable future. I do, however, see a deceleration in the market; we’ve had between 35% and 40% appreciation in certain areas over the last couple of years. That’s simply not sustainable.
 
-All in all, it looks like we’re in for another hot market. On the buying side, things might be a bit of a struggle, since inventory is so low and demand is so high, so be sure to have all your financial ducks in a row before you hit the market. If you’re hesitant to sell your home because you’re afraid you won’t be able to find another, we created our Buy Before You Sell Program. This will allow you to unlock your equity in your current home to buy a new house, and then you can sell your old home.
+All in all, it looks like we’re in for another hot market. On the buying side, things might be a bit of a struggle since inventory is so low and demand is so high, so be sure to have all your financial ducks in a row before you hit the market. If you’re hesitant to sell your home because you’re afraid you won’t be able to find another, we created our Buy Before You Sell Program. This will allow you to unlock your equity in your current home to buy a new house, and then you can sell your old home.
 
-If you have any questions or concerns about the market or real estate in general, don’t hesitate to reach out to me. I’d love to help you.
+If you have any questions or concerns about the market or real estate in general, don’t hesitate to reach out to us. We'd love to help you.
