@@ -5,14 +5,13 @@ date: 2022-03-01 15:50:27
 tags:
   - Market Update
 excerpt: A February update on our national and local real estate markets.
-enclosure: >-
-  https://vyralmarketing.s3.amazonaws.com/Nick+Shivers/2022/What+Is+Happening+in+Our+Market_.mp4
+enclosure:
 pullquote: We have a supply shortage across the whole country.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
 youtube_alternate_image:
-youtube_code: VcGdkHwcVa8
+youtube_code: G9MPCAHEoZQ
 ---
 {% include youtube.html %}
 
