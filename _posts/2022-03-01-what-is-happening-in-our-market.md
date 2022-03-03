@@ -34,7 +34,7 @@ In Portland, we were down 11% for active listings in January. In the last three 
 
 More properties are hitting the market, but we do have some volatility. People are asking me what’s going on in Russia and if that’ll affect our market. If I could answer all of that correctly, I’d be on a jet, giving advice to foreign leaders.&nbsp;
 
-**However, what I do see happening is some slowdown in appreciation.** We can’t keep going at the pace we’re going; we are starting to see affordability issues. When our crazy market started, we were at 2% for rates, and now rates have risen to around 4%.&nbsp;
+**However, what I do see happening is some slowdown in appreciation.** We can’t keep going at the pace we’re going; we are starting to see affordability issues. When our crazy market started, we were at 2% for interest rates, and now they have risen to around 4%.&nbsp;
 
 Don’t get me wrong; our inflation is really high, and these rates are still very low. **However, these increases will affect your buying power.** A 1% increase in rates means a 10% decrease in buying power. If you could afford a $500,000 last year at 3%, now you can only a ford at $450,000 at 4%, and prices don’t look like they will go down this year.
 
