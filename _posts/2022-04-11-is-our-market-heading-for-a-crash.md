@@ -28,9 +28,9 @@ Despite the recent hit to affordability, prices have not gone down. Across the c
 
 {% include pullquote.html %}
 
-Historically, when interest rates rise, buyer demand initially increases. This is due to basic FOMO, or the fear of missing out. **The Fed plans to increase rates further, so buyers want to purchase a home at a lower rate while they still can.** While rising rates may speed up the market in the short term, they will slow things down in the long run. For example, many buyers who were looking to make a small upgrade may settle for a remodel.&nbsp;
+Historically, when interest rates rise, buyer demand initially increases. This is due to basic FOMO, or the fear of missing out. **The Federal Reserve plans to increase rates further, so buyers want to purchase a home at a lower rate while they still can.** While rising rates may speed up the market in the short term, they will slow things down in the long run. For example, many buyers who were looking to make a small upgrade may settle for a remodel.&nbsp;
 
-Does this mean we’re heading for a bubble?I don’t think so, and there are a couple of key reasons why. First, most homeowners have tons of equity. 40% of all homeowners own their houses outright, while another 32% have at least 50% equity. Another reason why we won’t see a crash is our historically low supply. 33% of all homes purchased in the U.S. are purchased by investors right now, and investors pay with cash.
+Does this mean we’re heading for a bubble? I don’t think so, and there are a couple of key reasons why. First, most homeowners have tons of equity. 40% of all homeowners own their houses outright, while another 32% have at least 50% equity. Another reason why we won’t see a crash is our historically low supply. 33% of all homes purchased in the U.S. are purchased by investors right now, and investors pay with cash.
 
 In the fourth quarter of 2022, we might see the market flatline, depending on what happens with interest rates. However, a crash is very unlikely. Things will certainly slow down, but I don’t believe there is any reason to panic. **If you’re going to sell this year, I recommend you do so while we’re still in a crazy-hot market.&nbsp;**
 
