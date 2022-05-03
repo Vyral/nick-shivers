@@ -5,7 +5,8 @@ date: 2022-05-03 14:31:07
 tags:
   - Market Update
 excerpt: Here are the latest numbers from the market and what they mean to you.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Nick+Shivers/2022/Is+the+Market+Still+Strong_.mp4
 pullquote: I don’t see anything that would suggest we’re going through a housing crisis.
 enclosure_type: video/mp4
 enclosure_time:
@@ -27,7 +28,7 @@ For the year in Clark County, active listings rose 1.5%, pending sales dropped 2
 
 {% include pullquote.html %}
 
-**Mortgage interest rates are the highest they’ve been since 2009**, having risen by almost 2% since the beginning of the year. Remember that just a 1% increase in rates equals a 10% decrease in buyers’ purchasing power. Does that mean that homes are going to start depreciating? Not right now, it doesn’t. Inventory is still extremely low, which offsets the decrease in value that would normally come as rates rose. We’ll probably see a slowdown in the spring and summer markets, especially if the Fed keeps raising interest rates.&nbsp;
+**Mortgage interest rates are the highest they’ve been since 2009**, having risen by almost 2% since the beginning of the year. Remember that just a 1% increase in rates equals a 10% decrease in buyers’ purchasing power. Does that mean that homes are going to start depreciating? Not right now, it doesn’t. Inventory is still extremely low, which offsets the decrease in value that would normally come as rates rose. We’ll probably see a slowdown in the spring and summer markets, especially if the Fed keeps raising interest rates.
 
 But what’s the overall outlook for the housing market? Right now, it’s strong. **Buyer demand is still high** because interest rates are going up, and they want to lock in as low a rate as possible. Supply, on the other hand, is still low. Because buyers are scrambling to find homes, sellers will also want to list quickly to take advantage of the demand and rising prices.
 
