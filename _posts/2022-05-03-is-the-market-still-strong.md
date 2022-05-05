@@ -4,7 +4,7 @@ title: Is the Market Still Strong?
 date: 2022-05-03 14:31:07
 tags:
   - Market Update
-excerpt: Here are the latest numbers from the market and what they mean to you.
+excerpt: Here are the latest numbers from the market and what they mean for you.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/Nick+Shivers/2022/Is+the+Market+Still+Strong_.mp4
 pullquote: I don’t see anything that would suggest we’re going through a housing crisis.
@@ -18,7 +18,7 @@ youtube_code: mu3rTY0K6WI
 
 {% include excerpt.html %}
 
-Today we’re going to once again dive deep into the numbers from the Oregon and Southwest Washington real estate markets to get a better understanding of what’s going on.
+Today we’re going to once again dive deep into the numbers from the Oregon and Southwest Washington real estate markets to get a better understanding of what’s happening.
 
 First, **the Wells Fargo Home Builder Index, which shows the confidence level of new construction home builders, has been down five months in a row.** Five months ago, the index was at 91%, showing that the market was phenomenal. Now, the index is only at 84%. However, historically speaking, builder confidence is still excellent.
 
@@ -28,10 +28,8 @@ For the year in Clark County, active listings rose 1.5%, pending sales dropped 2
 
 {% include pullquote.html %}
 
-**Mortgage interest rates are the highest they’ve been since 2009**, having risen by almost 2% since the beginning of the year. Remember that just a 1% increase in rates equals a 10% decrease in buyers’ purchasing power. Does that mean that homes are going to start depreciating? Not right now, it doesn’t. Inventory is still extremely low, which offsets the decrease in value that would normally come as rates rose. We’ll probably see a slowdown in the spring and summer markets, especially if the Fed keeps raising interest rates.
+**Mortgage interest rates are the highest they’ve been since 2009**, having risen by almost 2% since the beginning of the year. Remember that just a 1% increase in rates equals a 10% decrease in buyers’ purchasing power. Does that mean that homes are going to start depreciating? Fortunately, no. Inventory is still extremely low, which offsets the decrease in value that would normally come as rates rose. We’ll probably see a slowdown in the spring and summer markets, especially if the Federal Reserve keeps raising interest rates.
 
-But what’s the overall outlook for the housing market? Right now, it’s strong. **Buyer demand is still high** because interest rates are going up, and they want to lock in as low a rate as possible. Supply, on the other hand, is still low. Because buyers are scrambling to find homes, sellers will also want to list quickly to take advantage of the demand and rising prices.
+What’s the overall outlook for the housing market? Right now, it’s strong. **Buyer demand is still high** because interest rates are going up, and they want to lock in as low of a rate as possible. Supply, on the other hand, is still low. Since buyers are scrambling to find homes, sellers will also want to list quickly to take advantage of the demand and rising prices.
 
-On the whole, I don’t see anything on the horizon that would suggest we’re going through a housing crisis, but I’ll continue to keep an eye on the data as the year progresses.
-
-If you have any questions about the market or you need to buy or sell a home, give me a call or send me an email. I’d love to hear from you.
+On the whole, I don’t see anything on the horizon that would suggest we’re going through a housing crisis, but I’ll continue to keep an eye on the data as the year progresses. If you have any questions about the market or need to buy or sell a home, give me a call or send me an email. I’d love to hear from you.
