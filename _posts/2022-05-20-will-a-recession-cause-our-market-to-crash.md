@@ -5,7 +5,8 @@ date: 2022-05-20 14:55:00
 tags:
   - Market Update
 excerpt: 'Here’s what usually happens to real estate enduring a recession. '
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/Nick+Shivers/2022/Will+a+Recession+Cause+Our+Market+To+Crash_.mp4
 pullquote: >-
   Supply is low, and many buyers are trying to purchase a house before rates
   rise any further. 
