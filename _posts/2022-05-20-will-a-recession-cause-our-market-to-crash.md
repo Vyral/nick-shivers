@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Will a Recession Cause Our Market To Crash?
-date: 2022-05-20 17:55:34
+date: 2022-05-20 14:55:00
 tags:
   - Market Update
 excerpt: 'Here’s what usually happens to real estate enduring a recession. '
