@@ -20,13 +20,13 @@ youtube_code: sBMMDXUAvvA
 
 {% include excerpt.html %}
 
-There’s a lot of fear in the news right now about a potential recession. According to Bloomberg, 68% of investors believe we’ll be in a recession by 2024. Meanwhile, 48% believe one will hit by 2023 or the end of 2022. What happens to real estate during a recession? Let’s look at the past and find out.&nbsp;
+There’s a lot of fear in the news right now about a potential recession. According to Bloomberg, 68% of investors believe we’ll be in a recession by 2024. Meanwhile, 48% believe one will hit by 2023 or the end of 2022. What happens to real estate during a recession? Today I'll use past experience and data to explain the answer.
 
-During COVID, many people thought we were heading into a prolonged recession. However, the economy held on fairly strong. In fact, many sectors of the economy experienced a boost during the height of the pandemic.&nbsp;
+During COVID, many people thought we were heading into a prolonged recession. However, the economy held on fairly strongly. In fact, many sectors of the economy experienced a boost during the height of the pandemic.&nbsp;
 
 This means we have to head back to 2008 to look at the last recession. This recession was caused in part by the housing market crash, so it makes sense that prices plummeted during this time. In some areas, prices fell by as much as 20%.&nbsp;
 
-However, 2008 was a bit of an anomaly. If we look at the previous recession in 2001, we see that housing prices actually increased by 6.6%. In 1991, home values only decreased by 1.9%. In 1980, prices appreciated by 4.4%.&nbsp;
+However, 2008 was a bit of an anomaly. If we look at the previous recession in 2001, we see that housing prices increased by 6.6%. In 1991, home values only decreased by 1.9%. In 1980, prices appreciated by 4.4%.&nbsp;
 
 {% include pullquote.html %}
 
