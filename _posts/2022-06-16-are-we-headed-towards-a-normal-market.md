@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Are We Headed Towards a Normal Market?
-date: 2022-06-16 14:55:40
+date: 2022-06-16 11:55:00
 tags:
   - Market Update
 excerpt: What’s the difference between a market crash, shift, and normalization?
