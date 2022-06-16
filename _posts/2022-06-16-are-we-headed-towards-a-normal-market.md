@@ -21,7 +21,7 @@ Today we will talk about what a market crash, shift, and normalization mean. Let
 
 To define a crash, let’s compare our current market conditions to the 2008-2009 housing bubble. Home values are historically high for both, but lending requirements and inventory levels are significantly different. More down payment and better credit scores are now required to purchase a house.&nbsp;
 
-A shift, on the other hand, can be defined as moving towards depreciation, longer days on the market and less offers. **I do believe we have a shift in the making but home values will not be decreasing.**
+A shift, on the other hand, can be defined as moving towards depreciation, longer days on the market and less offers. **I do believe we have a shift in the making but home values currently have been staying flat not increasing or decreasing.**
 
 As for a normalizing market, let's compare 2022 to 2019. Active listings went down year over year and pending sales went up. **The market is starting to normalize but continues to be strong.** We are still seeing multiple offers.&nbsp;
 
