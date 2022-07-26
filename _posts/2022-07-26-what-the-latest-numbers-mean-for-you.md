@@ -38,8 +38,6 @@ Sold listings: Down 11%
 
 Things have definitely changed**.** Many experts predicted that our market would slow down due to rising interest rates, and we can definitely see that in these numbers. **So how has our market fared month over month?**
 
-{% include pullquote.html %}
-
 Portland Metro
 
 Active listings: Down 13%
